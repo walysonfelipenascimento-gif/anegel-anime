@@ -209,3 +209,14 @@ As referências de atmosfera de Auren e do observatório foram apreciadas pelo u
 ### Estado após a integração de diálogos
 
 A primeira integração seletiva dos diálogos dos Storyboards 03–07 foi aplicada e verificada no roteiro literário. O registro das escolhas e omissões está em `dialogue-integration-pass-01.md`. A leitura de mesa e a cronometragem ainda não foram realizadas. A divergência C-05 foi corrigida nos Storyboards 03 e 04 e verificada. A leitura de mesa e a cronometragem continuam pendentes.
+
+
+## Adendo 4 — separação física dos percursos no Storyboard 04 (13/11/2026)
+
+### C-06 — presença indevida de Angel na galeria de Nara e Iren
+
+- **Achado:** apesar da correção anterior dos quadros 15–18 do Storyboard 03 e do quadro 02 do Storyboard 04, o quadro 07 do Storyboard 04 ainda dizia que “os três param” e mostrava Angel observando a parede oposta. O quadro 12 também colocava Angel na mesma bifurcação de Nara e Iren.
+- **Contradição:** o roteiro literário estabelece que Nara e Iren descem pela manutenção, enquanto Angel segue por outra escadaria e encontra uma entrada oculta separada. A versão anterior do Storyboard 04 fazia os caminhos voltarem a compartilhar o mesmo espaço antes da câmara.
+- **Decisão:** manter duas rotas fisicamente independentes até a convergência na câmara. Nara e Iren percorrem a galeria de manutenção e o desvio; Angel encontra a parede oculta em uma escadaria separada. A montagem pode alternar entre os percursos, mas os personagens não compartilham a mesma bifurcação nem têm linha de visão entre si.
+- **Correções aplicadas:** Storyboard 04, quadros 07 e 12, sequência C e regras de continuidade foram ajustados. O escopo do Storyboard 03 foi atualizado para refletir que apenas Nara e Iren iniciam a descida pela passagem de manutenção. O guia do observatório agora esclarece que Angel chega ao observatório, mas não se junta à descida da dupla.
+- **Estado:** correções textuais verificadas no GitHub. A planta superior da galeria e os dois acessos ainda precisam ser desenhados antes do storyboard visual e do animatic.
