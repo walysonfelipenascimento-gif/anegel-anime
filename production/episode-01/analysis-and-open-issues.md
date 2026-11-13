@@ -121,3 +121,10 @@ A lista de planos e o cue sheet não exigiram reordenação nesta passagem. O ro
 ## Preparação da leitura vocal — 13/11/2026
 
 Foi criado e verificado voice-read-through-guide-pass-01.md. O guia define direção de voz por personagem, intenção por cena, regras de gravação e folha de registro para duração e ajustes. Trata-se de preparação editorial; nenhuma leitura vocal, gravação ou cronometragem real foi realizada. A estimativa de 18–22 minutos permanece preliminar até a sessão.
+
+
+## Topologia espacial — 13/11/2026
+
+Foi criado e verificado route-topology-and-access-control.md. O documento fixa duas rotas independentes até a câmara: Nara/Iren pela manutenção e galerias; Angel por escadaria e parede oculta separadas. A entrada principal é também o eixo de chegada do adversário nesta versão, evitando inventar uma terceira entrada. O layout da câmara foi alinhado e o índice de direção visual atualizado.
+
+Continuam pendentes a origem exata da escadaria de Angel, as posições relativas dos marcos urbanos, as cotas de altura e as dimensões. Nenhuma medida ou orientação cardeal foi inventada. Próxima entrega visual: planta relacional de Auren e planta superior/corte vertical dos acessos, após aprovação das relações espaciais.
