@@ -489,7 +489,7 @@ Uma onda de contenção atinge a base da estrutura; uma rachadura luminosa atrav
 Iren identifica a saída pela corrente de ar e pelo retorno dos ecos.
 
 **IREN**  
-A passagem ainda está aberta. Mas não sigam o centro do corredor — o eco está devolvendo a distância errada!
+A rota de saída ainda está acessível. Mas não sigam o centro do corredor — o eco está devolvendo a distância errada!
 
 Uma única placa arquitetônica externa, parcialmente desprendida de seus apoios laterais/superiores, começa a tombar em direção ao centro. O teto principal permanece estável. Angel sustenta essa mesma placa; a marca ciano reaparece, irregular, e o esforço não parece simples para ele.
 
@@ -511,7 +511,7 @@ O padrão central começa a se fechar e as relações entre os sinais ficam mais
 O desenho está mudando!
 
 **IREN**  
-Eu encontrei a saída. Agora preciso que você confie em mim por alguns passos.
+Consigo manter a referência. Agora preciso que você confie em mim por alguns passos.
 
 **NARA**  
 Só alguns?
