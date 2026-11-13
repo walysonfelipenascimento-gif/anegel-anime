@@ -283,3 +283,16 @@ Antes da animação, preparar uma planta superior simples com os quatro personag
 ## Próxima etapa
 
 **Storyboard 07 — A inscrição e a resposta.** A câmara parcialmente estabilizada reconhece o registro de Nara; os sinais mudam sem formar uma mensagem convencional. A voz desconhecida diz “Você demorou”, e Angel responde “Eu sei”. A sequência deve preservar a contenção emocional e encerrar o episódio com a segunda voz, o mistério além de Auren e a frase final aprovada: “Nem todo começo é o início de alguma coisa.”
+
+
+## Adendo de continuidade — placa e teto (auditoria 12/11/2026)
+
+Para eliminar a ambiguidade entre o roteiro literário e a encenação dos quadros 01–26, fica estabelecido para esta versão:
+
+- A peça sustentada por Angel é **uma única placa arquitetônica externa**, integrada ao revestimento lateral/superior da câmara e presa à estrutura por suportes antigos.
+- A placa se desprende parcialmente e inclina em direção à base central; ela não representa o teto inteiro nem provoca um segundo desabamento.
+- O teto principal permanece estável. A rachadura luminosa atravessa o piso e a instabilidade altera as referências espaciais, mas não transforma a câmara numa ruína em colapso generalizado.
+- Angel sustenta essa mesma placa até que a redução da contenção e o registro de Nara diminuam a oscilação. Então ele a deposita cuidadosamente junto à base, como descrito nos quadros 21–22.
+- O cenário deve mostrar suportes e marcas de encaixe que expliquem visualmente de onde a placa veio. Não criar uma segunda placa ou novo fragmento durante a sequência.
+
+Esta definição esclarece a encenação sem alterar o acontecimento central do roteiro: a câmara sofre uma instabilidade localizada, Angel demonstra esforço e limite, e o grupo contribui para uma estabilização apenas parcial.
