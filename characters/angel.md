@@ -24,3 +24,6 @@ Angel reconhece que o fenômeno se relaciona com algo anterior, mas não explica
 
 ## Voz e atuação
 Falar com serenidade, sem monotonia. O humor surge naturalmente. Em momentos de preocupação, pequenas pausas e mudanças no olhar são mais importantes que grandes expressões.
+
+## Direção visual em desenvolvimento
+A especificação visual de produção está em `production/character-design/angel-model-sheet-brief.md`. A referência recebida define 172 cm, estrutura esguia, proporções naturais, postura relaxada, rosto oval delicado sem infantilização, olhos cianos, cabelo prateado médio em camadas, mãos de tamanho médio e roupa de viagem simples (túnica clara, calça escura, faixa discreta e botas terrosas). A ficha visual ainda depende de aprovação; peso, medidas segmentares e detalhes não informados não são cânone.
