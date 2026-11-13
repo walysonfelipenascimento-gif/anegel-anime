@@ -128,3 +128,10 @@ Foi criado e verificado voice-read-through-guide-pass-01.md. O guia define dire�
 Foi criado e verificado route-topology-and-access-control.md. O documento fixa duas rotas independentes até a câmara: Nara/Iren pela manutenção e galerias; Angel por escadaria e parede oculta separadas. A entrada principal é também o eixo de chegada do adversário nesta versão, evitando inventar uma terceira entrada. O layout da câmara foi alinhado e o índice de direção visual atualizado.
 
 Continuam pendentes a origem exata da escadaria de Angel, as posições relativas dos marcos urbanos, as cotas de altura e as dimensões. Nenhuma medida ou orientação cardeal foi inventada. Próxima entrega visual: planta relacional de Auren e planta superior/corte vertical dos acessos, após aprovação das relações espaciais.
+
+
+## Ferramenta de voz aprovada — ElevenLabs (13/11/2026)
+
+O usuário aprovou o ElevenLabs como ferramenta-padrão para as vozes do Episódio 01, com a condição explícita de não contratar plano pago, comprar créditos ou realizar qualquer compra. Foi criado `audio/elevenlabs-voice-setup-and-test-pass-01.md` com configuração inicial pt-BR, perfis vocais, frases de teste, critérios de comparação e folha de avaliação.
+
+**Estado:** preparação documental concluída e verificada no GitHub. Nenhuma conta foi acessada, nenhuma voz foi selecionada, nenhum áudio foi gerado ou aprovado. Os testes dependem de o usuário acessar a plataforma e ouvir as amostras disponíveis no plano gratuito. Não enviar credenciais para a conversa nem registrar segredos no repositório.
