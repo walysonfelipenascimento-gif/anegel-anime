@@ -75,3 +75,19 @@ Serenidade, alegria genuína, preocupação contida, surpresa, tristeza, humor d
 - Aprovar comprimento exato do cabelo e detalhes de franja.
 - Aprovar posição e desenho final da marca ciano.
 - Produzir color key e vistas limpas sem texto sobreposto.
+
+## Controle das explorações visuais geradas
+
+As imagens geradas durante a exploração são estudos de direção, não model sheets aprovados. A referência física enviada pelo usuário permanece a fonte prioritária para o modelo cotidiano do episódio 01.
+
+**Não canonizar a partir das imagens geradas:**
+- Peso corporal (valores como 60 ou 61 kg foram inventados pela geração).
+- Capas, mantos, casacos longos, armaduras, broches, colares ou símbolos adicionais.
+- Bolsas, coldres, tiras transversais e equipamentos que não foram aprovados.
+- Marcas ciano grandes nas costas ou em posições diferentes da referência.
+- Efeitos de Essência permanentes ou poses de combate como aparência cotidiana.
+- Habilidades descritas em textos automáticos da imagem que não constem no roteiro/cânone.
+
+**Base de vestuário a priorizar:** túnica clara simples, calça escura, faixa discreta e botas terrosas, conforme a referência enviada. A construção final pode ser refinada, mas deve continuar funcional, discreta e sem insígnias de origem.
+
+**Critério para o próximo model sheet:** folha técnica neutra, sem dados não aprovados, sem peso, sem biografia inventada e sem elementos de transformação. Mostrar frente, perfil, costas, três quartos, cabeça, expressões, mãos, botas, roupa e marca em estado normal/manifestação breve.
