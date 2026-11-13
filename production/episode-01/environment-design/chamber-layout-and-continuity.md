@@ -10,7 +10,7 @@
 2. **Entrada lateral:** acesso separado utilizado por Angel.
 3. **Centro circular:** área dos anéis incompletos e da base central.
 4. **Placas externas:** placas arquitetônicas distribuídas ao redor do centro, sem formar uma parede fechada.
-5. **Corredor de chegada do adversário:** eixo por onde ele entra e mantém distância da estrutura.
+5. **Eixo de entrada principal / chegada do adversário:** o adversário aparece pelo mesmo eixo de acesso utilizado por Nara e Iren, salvo futura alteração aprovada no roteiro. Não criar uma terceira entrada independente para ele.
 6. **Rachadura preexistente no piso:** ponto em que a linha ciano de Angel interrompe brevemente a técnica no Storyboard 05.
 7. **Área de observação de Nara:** posição que permita examinar as inscrições e registrar relações sem precisar ocupar o centro.
 8. **Referência acústica de Iren:** superfície e geometria que permitam comparar o retorno dos passos e localizar a passagem.
@@ -18,6 +18,7 @@
 ## Relações espaciais que não podem mudar
 
 - A entrada principal e a entrada lateral são acessos distintos.
+- O eixo de chegada do adversário pertence à entrada principal; não constitui um terceiro acesso independente.
 - O corredor do adversário não deve coincidir com a passagem lateral de Angel.
 - O centro circular permanece como referência fixa; os anéis parecem mudar de relação/alinhamento, não girar como engrenagens comuns.
 - As placas externas permanecem identificáveis em todos os planos.
