@@ -12,3 +12,6 @@ Usa humor para lidar com situações estranhas, mas não é irresponsável. Quan
 
 ## Direção futura
 Iren terá trajetória, conflitos, vínculos e revelações próprios. Não será apenas alívio cômico ou acompanhante de Angel. Sua conexão com acontecimentos maiores deverá emergir gradualmente e coexistir com suas escolhas independentes.
+
+## Direção visual em desenvolvimento
+A referência visual recebida e suas pendências estão documentadas em `production/character-design/iren-model-sheet-brief.md`. A imagem orienta um viajante/entregador de cabelo escuro acinzentado, olhos avermelhados, boné marrom, casaco azul-escuro, roupa em camadas, botas e bolsa. Esses detalhes são referências iniciais, não decisões finais até aprovação.
