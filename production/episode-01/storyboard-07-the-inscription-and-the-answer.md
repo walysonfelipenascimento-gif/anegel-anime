@@ -7,6 +7,8 @@
 
 > Documento de pré-produção. Este é o encerramento do primeiro episódio, não uma explicação do mistério. A sequência deve concluir a experiência emocional de Auren e, ao mesmo tempo, abrir uma pergunta maior.
 
+**Status dos diálogos:** falas que também constam no roteiro literário são a versão de referência. Falas adicionais presentes apenas neste storyboard são propostas de encenação, não texto aprovado para gravação; só entram na versão final após incorporação ao roteiro e aprovação.
+
 ## Intenção dramática
 
 O registro de Nara não funciona como senha nem como chave mecânica. A estrutura reconhece uma relação que voltou a ser observável. Sua resposta é discreta: os sinais mudam de posição e a câmara parece recuperar por um instante uma lembrança de sua própria organização.
