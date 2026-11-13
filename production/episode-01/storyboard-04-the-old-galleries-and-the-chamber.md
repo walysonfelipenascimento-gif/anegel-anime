@@ -78,7 +78,7 @@ A descida deve parecer uma transição de um espaço conhecido para outro que fo
 - **Enquadramento:** plano fixo do corredor vazio.
 - **Ação:** uma gota cai; o eco retorna em dois tempos diferentes, como se a galeria tivesse uma extensão que a imagem não mostra.
 - **Som:** gota, primeiro eco próximo, segundo eco mais distante e ligeiramente atrasado.
-- **Atuação:** os três param. Iren escuta; Nara registra a direção; Angel observa a parede oposta.
+- **Atuação:** Nara e Iren param. Iren escuta; Nara registra a direção. Angel não está neste corredor; sua rota paralela será apresentada na sequência C.
 - **Objetivo:** sugerir profundidade irregular sem confirmar uma explicação sobrenatural.
 
 ---
@@ -125,8 +125,8 @@ A descida deve parecer uma transição de um espaço conhecido para outro que fo
 
 ### 12 — A bifurcação
 - **Enquadramento:** plano geral frontal que mostre os dois caminhos e seus marcos distintos.
-- **Imagem:** à esquerda, suportes de manutenção reconhecíveis; à direita, parede lisa com uma linha vertical quase invisível.
-- **Ação:** Nara marca a posição no caderno. Iren verifica a rota da esquerda. Angel permanece olhando a parede da direita.
+- **Imagem:** à esquerda, suportes de manutenção reconhecíveis; à direita, o corredor continua por uma descida curta, com materiais que não combinam com a infraestrutura conhecida.
+- **Ação:** Nara marca a posição no caderno. Iren verifica a rota da esquerda e identifica o desvio à direita. Angel não aparece nesta bifurcação.
 - **Objetivo:** deixar clara a geografia para o público antes de separar os personagens.
 
 ---
@@ -134,7 +134,8 @@ A descida deve parecer uma transição de um espaço conhecido para outro que fo
 ## Sequência C — Angel encontra outra entrada
 
 ### 13 — A escolha silenciosa
-- **Enquadramento:** plano próximo de Angel olhando a linha vertical; corte para Nara e Iren ocupados com os dois caminhos.
+- **Enquadramento:** plano próximo de Angel em uma escadaria independente, separado da galeria percorrida por Nara e Iren; a montagem pode alternar entre os dois percursos sem sugerir que compartilham o mesmo espaço.
+- **Imagem:** no patamar da escadaria de Angel, uma parede lisa apresenta uma linha vertical quase invisível quando a luz passa de lado.
 - **Ação:** Angel não anuncia que reconhece a passagem. Apenas se aproxima, como se tivesse notado algo que os outros ainda não perceberam.
 - **Atuação:** expressão serena, mas concentrada; não deve parecer uma lembrança completa.
 - **Som:** o eco distante muda muito discretamente.
@@ -234,8 +235,8 @@ A descida deve parecer uma transição de um espaço conhecido para outro que fo
 ## Continuidade e regras de representação
 
 1. A entrada de manutenção fica atrás dos elevadores de carga, conforme a fala de Iren no Storyboard 03.
-2. A galeria conhecida e a passagem lisa pertencem à mesma bifurcação. A posição deve ser desenhada num mapa antes do animatic.
-3. Angel entra por uma abertura separada e não é visto por Nara e Iren; a parede se fecha sem deixar sinal evidente.
+2. A rota de Nara e Iren pela manutenção e o acesso oculto de Angel são percursos independentes. Não desenhar a parede oculta no campo de visão da dupla nem reuni-los antes da câmara.
+3. Angel encontra a parede oculta em uma escadaria separada, entra por ela e não é visto por Nara e Iren; a parede se fecha sem deixar sinal evidente.
 4. Nara e Iren chegam à câmara por um corredor diferente. Não devem atravessar a porta que Angel abriu.
 5. A câmara é ampla e espacialmente estranha, mas não deve ser descrita visualmente como portal convencional.
 6. Anéis incompletos, placas e filamentos são elementos visuais recorrentes; desenhar um esquema simples de suas posições para evitar mudanças entre planos.
