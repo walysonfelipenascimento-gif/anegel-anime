@@ -450,7 +450,7 @@ Você já viu isso?
 
 Sem resposta.
 
-A placa central começa a fechar sobre o desenho. Nara decide registrar o padrão antes que desapareça.
+O padrão central começa a se fechar e as relações entre os sinais ficam mais difíceis de acompanhar. Nara decide registrar o que ainda permanece visível antes que desapareça.
 
 **IREN**  
 Nara, espera!
