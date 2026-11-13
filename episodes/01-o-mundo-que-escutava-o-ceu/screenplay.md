@@ -262,6 +262,15 @@ Encontram marcas de ferramentas, restos de uma fogueira e uma peça de metal par
 **NARA**  
 Alguém esteve aqui antes de nós.
 
+**IREN**  
+O caminho conhecido termina à esquerda. Mas o ar está vindo da direita.
+
+**NARA**  
+Pode haver outra saída.
+
+**IREN**  
+Ou outro espaço.
+
 Em outra escadaria, Angel caminha como quem reconhece o caminho. Para diante de uma parede lisa.
 
 **ANGEL**  
@@ -288,6 +297,20 @@ Nara nota marcas raspadas e camadas sobrepostas.
 
 **NARA**  
 Isso foi alterado depois de construído.
+
+**IREN**  
+Mais de uma vez?
+
+**NARA**  
+Parece.
+
+Iren observa a extensão da câmara, tentando estimar a distância até o centro.
+
+**IREN**  
+Isto não cabe no espaço que vimos lá fora.
+
+**NARA**  
+Então nossa medida do espaço está incompleta.
 
 Uma pessoa surge na entrada: roupas de viagem reforçadas, instrumentos presos ao antebraço, equipamento remendado muitas vezes. É o ADVERSÁRIO; seu nome ainda não é revelado.
 
@@ -320,6 +343,9 @@ Se aconteceu antes, precisamos entender.
 **ADVERSÁRIO**  
 Entender não é o mesmo que conseguir impedir.
 
+**NARA**  
+E impedir sem entender pode repetir o problema.
+
 Ele ativa o instrumento. A estrutura vibra.
 
 **ADVERSÁRIO**  
@@ -347,7 +373,12 @@ Nara fecha os olhos e escuta o eco dos próprios passos.
 **NARA**  
 Não siga o que está vendo! Escute o espaço!
 
-Iren bate o pé. O som retorna de dois pontos. Ele identifica a posição real da passagem e lança uma pequena peça metálica para distrair o adversário.
+Iren bate o pé. O som retorna de dois pontos.
+
+**IREN**  
+O eco está vindo de trás da placa. Você está mais perto do que parece!
+
+Ele identifica a posição real da passagem e lança uma pequena peça metálica para distrair o adversário.
 
 Nara usa o intervalo para tocar uma placa externa. Linhas se acendem e revelam por um segundo a posição dos anéis.
 
@@ -436,9 +467,31 @@ Angel não confirma.
 
 ### 10. A ESCOLHA
 
-O adversário tenta desligar o instrumento. Uma onda de contenção atinge a base da estrutura; uma rachadura luminosa atravessa a câmara. Parte do teto começa a ceder.
+O adversário tenta desligar o instrumento.
 
-Iren puxa Nara para longe. Uma única placa arquitetônica externa, parcialmente desprendida de seus apoios laterais/superiores, começa a tombar em direção ao centro. O teto principal permanece estável. Angel sustenta essa mesma placa; a marca ciano reaparece, irregular, e o esforço não parece simples para ele.
+**ADVERSÁRIO**  
+Não. Não agora.
+
+**ANGEL**  
+Espere.
+
+**ADVERSÁRIO**  
+Saia da frente.
+
+**ANGEL**  
+Se interromper de uma vez, talvez leve junto o que ainda está mantendo tudo conectado.
+
+**ADVERSÁRIO**  
+Não vou esperar para descobrir.
+
+Uma onda de contenção atinge a base da estrutura; uma rachadura luminosa atravessa a câmara. Parte do teto começa a ceder.
+
+Iren identifica a saída pela corrente de ar e pelo retorno dos ecos.
+
+**IREN**  
+A passagem ainda está aberta. Mas não sigam o centro do corredor — o eco está devolvendo a distância errada!
+
+Uma única placa arquitetônica externa, parcialmente desprendida de seus apoios laterais/superiores, começa a tombar em direção ao centro. O teto principal permanece estável. Angel sustenta essa mesma placa; a marca ciano reaparece, irregular, e o esforço não parece simples para ele.
 
 O adversário vê a marca e empalidece.
 
@@ -450,7 +503,43 @@ Você já viu isso?
 
 Sem resposta.
 
-O padrão central começa a se fechar e as relações entre os sinais ficam mais difíceis de acompanhar. Nara decide registrar o que ainda permanece visível antes que desapareça.
+O padrão central começa a se fechar e as relações entre os sinais ficam mais difíceis de acompanhar.
+
+**NARA**  
+O desenho está mudando!
+
+Iren conduz Nara para uma posição lateral, fora da trajetória da placa.
+
+**IREN**  
+Eu encontrei a saída. Agora preciso que você confie em mim por alguns passos.
+
+**NARA**  
+Só alguns?
+
+**IREN**  
+Estou tentando não prometer demais.
+
+Nara observa o intervalo entre duas oscilações.
+
+**NARA**  
+Não preciso chegar ao centro. Só preciso ver a sequência inteira.
+
+**IREN**  
+E se a sequência inteira tentar derrubar a câmara?
+
+**NARA**  
+Então você me tira daqui antes disso.
+
+**IREN**  
+Agora. O eco voltou ao mesmo intervalo.
+
+**NARA**  
+Vi.
+
+**IREN**  
+Ótimo. Porque eu não sei se vai acontecer outra vez.
+
+Nara decide registrar o que ainda permanece visível antes que desapareça.
 
 **IREN**  
 Nara, espera!
@@ -458,7 +547,28 @@ Nara, espera!
 **NARA**  
 Se eu não registrar agora, talvez nunca mais apareça!
 
-Ela desenha as relações e os intervalos, não apenas os símbolos. O pulso diminui. A placa para.
+Ela desenha as relações e os intervalos, não apenas os símbolos.
+
+**NARA**  
+Eu consegui registrar.
+
+**IREN**  
+Tudo?
+
+**NARA**  
+Não. O suficiente para saber que falta alguma coisa.
+
+O pulso diminui. A placa para.
+
+O adversário hesita, olhando para a contenção ainda ativa.
+
+**ADVERSÁRIO**  
+Se eu soltar, não sei o que vai acontecer.
+
+**ANGEL**  
+E se continuar segurando desse jeito, já estamos vendo.
+
+Ele reduz a pressão do instrumento, sem desligá-lo por completo.
 
 O adversário abaixa o instrumento.
 
