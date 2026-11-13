@@ -41,3 +41,24 @@ Iren identifica a posição real da passagem ao perceber o retorno dos próprios
 - Confirmar casaco longo e paleta azul/marrom ou desenvolver alternativa própria.
 - Definir bolsa e itens de entrega usados no episódio.
 - Criar color key original e vistas ortográficas.
+
+## Leitura técnica ampliada da imagem recebida
+
+**Silhueta:** boné marrom, cabelo escuro acinzentado, casaco azul-escuro comprido e bolsa de entregas criam uma leitura imediata de viajante. O casaco deve ter movimento e comprimento controlados para não esconder as pernas ou dificultar a leitura das ações.
+
+**Rosto e cabelo:** olhos avermelhados e cabelo escuro acinzentado são características sugeridas pela referência, ainda não confirmadas como definitivas. A expressão-base deve ser aberta e comunicativa; o olhar muda claramente quando ele percebe perigo.
+
+**Vestuário:** casaco azul-escuro em camadas, lenço claro, roupa interna prática, calças de viagem e botas. A imagem inclui várias tiras e bolsos; manter somente os que tenham uso plausível. Evitar excesso de fivelas e ornamentos.
+
+**Bolsa e carga:** a bolsa precisa ter alça e volume coerentes, permitir acesso rápido e não bloquear o movimento. Definir um conjunto pequeno de itens de entrega compatível com as cenas, sem acrescentar equipamentos não previstos.
+
+## Atuação visual em cenas-chave
+
+- Em conversa: gestos espontâneos e postura solta, sem transformar toda fala em pose cômica.
+- Ao identificar a distorção: interrompe o movimento, escuta, compara a direção do som e indica o ponto com precisão.
+- Em deslocamento: passada prática, peso da bolsa perceptível e casaco acompanhando o movimento.
+- Em perigo: humor cessa; postura se torna objetiva e protetora, sem perder iniciativa própria.
+
+## Controle de cânone
+
+Não estão definidos altura, peso, medidas corporais, tom de pele, anatomia final, material do casaco, comprimento exato do cabelo, nem se boné e lenço serão mantidos. Não inferir essas medidas pela imagem. A bolsa, os itens transportados e o desenho final da roupa dependem de validação com o episódio.
