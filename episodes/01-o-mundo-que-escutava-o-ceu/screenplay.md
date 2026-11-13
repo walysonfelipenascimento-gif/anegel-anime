@@ -438,7 +438,7 @@ Angel não confirma.
 
 O adversário tenta desligar o instrumento. Uma onda de contenção atinge a base da estrutura; uma rachadura luminosa atravessa a câmara. Parte do teto começa a ceder.
 
-Iren puxa Nara para longe. Angel sustenta uma placa que se desprende. A marca ciano reaparece, irregular; o esforço não parece simples para ele.
+Iren puxa Nara para longe. Uma única placa arquitetônica externa, parcialmente desprendida de seus apoios laterais/superiores, começa a tombar em direção ao centro. O teto principal permanece estável. Angel sustenta essa mesma placa; a marca ciano reaparece, irregular, e o esforço não parece simples para ele.
 
 O adversário vê a marca e empalidece.
 
