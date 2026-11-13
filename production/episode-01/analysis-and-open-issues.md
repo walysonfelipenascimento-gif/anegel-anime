@@ -1,6 +1,6 @@
 # Episódio 01 — Análise crítica e pendências
 
-**Atualização:** 13/11/2026 — integração seletiva de diálogos, passe 01
+**Atualização:** 13/11/2026 — integração seletiva e leitura editorial, passe 01
 
 ## O que o episódio precisa cumprir
 
@@ -44,7 +44,7 @@
 - Criar modelos reutilizáveis para espécies e figurantes de Auren.
 
 ### Roteiro, som e ritmo
-- Fazer leitura dramática integral e cronometrar a versão após a primeira integração seletiva; ajustar apenas o que prejudicar naturalidade, ritmo ou clareza.
+- Fazer leitura vocal com marcação de pausas e intenção; a leitura editorial textual e a estimativa preliminar de duração já foram registradas.
 - Associar os cues de áudio aos quadros no animatic e ajustar pausas, silêncios e duração.
 - Confirmar a ordem final e a continuidade de todos os objetos na leitura corrida dos sete storyboards.
 
@@ -93,3 +93,12 @@ Documento de registro: `dialogue-integration-pass-01.md`.
 **Nova pendência de continuidade:** o Storyboard 03 (sequência C, quadros 15–18) e o Storyboard 04 (sequência A, quadro 02) mostram Angel junto de Nara e Iren na entrada de manutenção, enquanto o roteiro e as sequências posteriores do Storyboard 04 estabelecem caminhos separados. A decisão foi aplicada: Nara e Iren seguem pela galeria; Angel usa a passagem oculta; os caminhos convergem na câmara. Os quadros conflitantes dos Storyboards 03 e 04 foram corrigidos e verificados.
 
 **Estado:** primeira integração concluída; leitura de mesa, cronometragem e correção dos storyboards ainda pendentes. Não liberar animatic final.
+
+
+## Atualização — leitura editorial e duração preliminar (13/11/2026)
+
+A leitura editorial textual do roteiro integrado foi concluída e registrada em `read-through-and-runtime-pass-01.md`. Foram revisadas as 14 cenas quanto a voz, clareza, ritmo, continuidade e função dramática. Ajustes pequenos foram aplicados: entrada lateral de Angel explicitada, repetição de reação do adversário retirada e orientação espacial de Iren refinada.
+
+A contagem aproximada é de 2.970 palavras totais e 1.065 palavras faladas. A estimativa inicial de narrativa é de **18–22 minutos**, sem abertura ou encerramento musicais separados. A duração ainda não está aprovada; depende de leitura vocal e teste em animatic.
+
+**Estado atual:** primeira integração de diálogos concluída; divergência de rotas nos Storyboards 03 e 04 corrigida; leitura editorial textual concluída. Permanecem pendentes leitura vocal, cronometragem real, sincronização final de áudio e aprovação visual de cenários, personagens e objetos. Não liberar animatic final.
