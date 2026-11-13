@@ -63,3 +63,22 @@
 O roteiro literário, os sete storyboards técnicos, a decupagem consolidada, o cue sheet sincronizado e a auditoria de continuidade estão registrados. **Ainda não existem painéis visuais finais, model sheets aprovados, animatic, animação, vozes gravadas, trilha final, efeitos finais, montagem ou episódio exportado.**
 
 A próxima etapa é a pré-produção visual: referências aprovadas e model sheets dos personagens, seguidas pelos estudos de cenário e objetos. O animatic vem depois da aprovação dessas bases e da harmonização final dos diálogos.
+
+## Atualização da auditoria cruzada — 13/11/2026
+
+A revisão cruzada dos sete storyboards, do roteiro literário e dos novos guias de cenário/objetos foi registrada em `continuity-audit.md`.
+
+Correções aplicadas diretamente ao roteiro:
+- A ação de perigo agora envolve uma única placa arquitetônica externa parcialmente desprendida; o teto principal permanece estável.
+- A frase ambígua sobre uma “placa central” foi substituída pelo fechamento progressivo do padrão central, evitando sugerir uma segunda placa móvel.
+
+Novos documentos técnicos disponíveis:
+- Geografia de Auren e layout do Observatório das Rotas.
+- Planta textual e continuidade da câmara subterrânea.
+- Briefs do caderno/kit cartográfico de Nara e da bolsa de entregas de Iren.
+- Brief da estrutura de anéis, placas e inscrições.
+- Continuidade da marca ciano de Angel.
+- Registro geral de continuidade dos objetos.
+- Brief visual do adversário e do instrumento segmentado.
+
+**Estado:** a divergência de placa/teto foi corrigida e verificada. O animatic final continua bloqueado até harmonização dos diálogos expandidos, desenhos de plantas/cortes e aprovação dos model sheets e objetos essenciais. As referências visuais de atmosfera não são modelos oficiais aprovados.
