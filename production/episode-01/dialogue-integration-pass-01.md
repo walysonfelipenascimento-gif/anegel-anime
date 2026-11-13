@@ -44,13 +44,11 @@ Foram incorporadas falas que acrescentam ação, raciocínio, caracterização o
 - Falas adicionais de observação de vestígios foram omitidas quando repetiam informações que o roteiro já comunica pela ação ou por diálogo existente.
 - Não foram adicionadas explicações sobre a origem de Angel, a natureza da estrutura, o Grande Colapso ou as vozes.
 
-## Divergência documental que permanece aberta
+## Divergência documental de rotas — resolvida em 13/11/2026
 
-O Storyboard 03, sequência C, quadros 15–18, e o Storyboard 04, sequência A, quadro 02, mostram Angel junto de Nara e Iren na entrada de manutenção e sugerem uma descida conjunta. Isso contradiz:
-1. o roteiro literário, no qual Nara e Iren descem e Angel segue por uma entrada separada;
-2. o próprio Storyboard 04, sequências C e D, que mostra Angel entrando por uma parede oculta enquanto Nara e Iren seguem por outra rota.
+A primeira revisão identificou que os Storyboards 03 e 04 misturavam a entrada de manutenção de Nara e Iren com a entrada oculta de Angel. A correção inicial dos quadros 15–18 do Storyboard 03 e do quadro 02 do Storyboard 04 foi aplicada, mas uma segunda leitura encontrou sobras no Storyboard 04: quadros 07 e 12 ainda colocavam Angel na mesma galeria/bifurcação.
 
-**Decisão provisória de continuidade:** preservar a separação dos caminhos, porque ela mantém a descoberta independente de Nara e Iren e a entrada paralela de Angel. **Correção aplicada e verificada:** os quadros 15–18 do Storyboard 03 agora acompanham Nara e Iren pela entrada de manutenção, enquanto Angel segue sem compartilhar essa rota. O quadro 02 do Storyboard 04 também mostra somente Nara e Iren. Não foi necessário alterar o roteiro.
+**Correção final C-06:** Nara e Iren percorrem a passagem de manutenção e o desvio; Angel encontra a parede oculta em uma escadaria independente. Os percursos não compartilham campo de visão nem espaço físico antes da câmara. O escopo do Storyboard 03, o Storyboard 04 e o guia do observatório foram alinhados. Os três convergem apenas na câmara. As alterações foram verificadas no GitHub e registradas no continuity-audit.md.
 
 ## Correção de continuidade confirmada durante a integração
 
@@ -65,3 +63,11 @@ Na cena 10, foi removida a frase antiga que sugeria que parte do teto cedia. A v
 5. Atualizar decupagem e cue sheet somente depois de aprovada a leitura.
 
 **Não liberar animatic final ainda.**
+
+## Resultado da auditoria cruzada dos sete storyboards — 13/11/2026
+
+- **Storyboard 05:** removida a repetição de pergunta/resposta que retomava o diálogo já estabelecido no Storyboard 04.
+- **Storyboard 06:** duas falas de Iren foram sincronizadas com o roteiro literário: “A rota de saída ainda está acessível...” e “Consigo manter a referência...”.
+- **Storyboards 04–07:** foi acrescentada uma regra editorial: falas que existem apenas no storyboard são propostas de encenação e não podem ser tratadas como texto aprovado para gravação até serem incorporadas ao roteiro e aprovadas.
+- **Roteiro literário:** nenhuma alteração foi necessária nesta auditoria; a versão aprovada foi preservada.
+- **Lista de planos e cue sheet:** correspondência dos sete blocos e ordem de encerramento conferidas; não foi encontrada necessidade de reordenar os cues nesta passagem.
