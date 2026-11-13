@@ -143,24 +143,14 @@ O fenômeno não deve parecer uma explosão ou um ataque convencional. O que ass
 
 ## Sequência C — A decisão e a descida
 
-### 15 — Angel escolhe o observatório
-- **Enquadramento:** plano geral da rua elevada; Angel atravessa o fluxo de moradores que começam a se reorganizar.
-- **Ação:** ele ajuda uma pessoa a estabilizar uma caixa caída e, em seguida, muda de direção para o observatório.
-- **Atuação:** decisão silenciosa, sem olhar para a câmera nem correr dramaticamente.
-- **Objetivo:** mostrar que Angel não abandona o cuidado com as pessoas para perseguir o mistério.
+### 15 — A decisão de investigar
+- **Enquadramento:** plano geral da rua elevada, com a entrada do observatório ao fundo.
+- **Ação:** Angel segue na direção do observatório, mas não se reúne com Nara e Iren. A câmera permanece com a dupla quando eles retomam a análise dos registros.
+- **Atuação:** Angel mantém a atenção no que aconteceu; não corre nem assume postura heroica.
+- **Objetivo:** manter a continuidade com a ida de Angel ao observatório sem antecipar o encontro na câmara.
 
-### 16 — Os três se encontram
-- **Enquadramento:** plano médio de entrada do observatório; Angel chega enquanto Nara fecha o caderno e Iren observa a projeção.
-- **Diálogo de ligação:**
-  - **IREN:** “Você também viu?”
-  - **ANGEL:** “Vi o suficiente para saber que não devemos fingir que passou.”
-  - **NARA:** “Você sabe o que aconteceu?”
-  - **ANGEL:** “Sei que aconteceu antes. Não sei se desta vez aconteceu da mesma maneira.”
-- **Atuação:** Angel é honesto sobre o limite do que sabe. Nara não aceita respostas vagas sem examiná-las.
-- **Objetivo:** criar uma aliança provisória baseada em perguntas e evidências, não em confiança instantânea.
-
-### 17 — O caminho nos registros
-- **Enquadramento:** plano superior do mapa e das mãos dos três.
+### 16 — O acesso nos registros
+- **Enquadramento:** plano superior do mapa e das mãos de Nara e Iren.
 - **Ação:** Nara aponta a região abaixo da cidade; Iren reconhece uma antiga rota de manutenção e indica o acesso mais plausível.
 - **Diálogo:**
   - **IREN:** “Se existe uma passagem, o acesso mais próximo fica atrás dos elevadores de carga.”
@@ -168,16 +158,21 @@ O fenômeno não deve parecer uma explosão ou um ataque convencional. O que ass
   - **IREN:** “Conheço as rotas usadas. Não significa que conheça tudo o que foi construído entre elas.”
 - **Objetivo:** dar a Iren contribuição prática que torna a descida possível.
 
-### 18 — Antes de descer
-- **Enquadramento:** plano médio dos três diante de uma abertura de manutenção discreta.
-- **Ação:** Nara guarda os registros; Iren confere o caminho e o equipamento de entrega que já carrega; Angel observa a parede como se percebesse algo, mas não a toca ainda.
+### 17 — Antes de descer
+- **Enquadramento:** plano médio de Nara e Iren diante de uma abertura de manutenção discreta.
+- **Ação:** Nara guarda os registros; Iren confere o caminho e o equipamento de entrega que já carrega.
 - **Diálogo:**
   - **NARA:** “Se encontrarmos uma estrutura, não tocamos em nada até entender.”
   - **IREN:** “Ótimo. Finalmente uma regra sensata.”
-  - **ANGEL:** “Vamos tentar mantê-la por pelo menos alguns minutos.”
 - **Atuação:** humor pequeno, com tensão subjacente.
-- **Movimento:** câmera recua enquanto os três entram; corte antes de revelar a passagem inteira.
-- **Objetivo:** terminar com decisão concreta e lançar a próxima sequência sem antecipar a câmara.
+- **Objetivo:** estabelecer a decisão da dupla sem incluir Angel na mesma rota.
+
+### 18 — A descida começa
+- **Enquadramento:** plano de acompanhamento por trás de Nara e Iren.
+- **Ação:** os dois entram pela passagem de manutenção. A câmera permanece com eles; Angel não aparece nesse corredor.
+- **Som:** ruído distante dos elevadores e passos que substituem gradualmente os sons da cidade.
+- **Movimento:** câmera recua e corta antes de revelar toda a galeria.
+- **Objetivo:** entregar a continuidade ao Storyboard 04, preservando a rota independente de Angel.
 
 ---
 
