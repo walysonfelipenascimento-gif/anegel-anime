@@ -12,3 +12,6 @@ Fala com precisão e tende a continuar investigando mesmo quando deveria recuar.
 
 ## Direção futura
 Nara terá trajetória, conflitos, vínculos e revelações próprios. Sua importância futura não deve ser reduzida a ser amiga de Angel ou a possuir um talento útil para ele. O alcance de seu destino não será revelado no início.
+
+## Direção visual em desenvolvimento
+A referência visual recebida e suas pendências estão documentadas em `production/character-design/nara-model-sheet-brief.md`. A imagem orienta uma silhueta de cartógrafa viajante, cabelo castanho longo, óculos arredondados, chapéu claro, roupa de exploração em verde-oliva/amarelo, mapas e bolsa. Esses detalhes são referências iniciais, não decisões finais até aprovação.
