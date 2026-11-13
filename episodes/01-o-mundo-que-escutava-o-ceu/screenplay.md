@@ -385,7 +385,7 @@ Nara usa o intervalo para tocar uma placa externa. Linhas se acendem e revelam p
 **ADVERSÁRIO**  
 Não toque nisso!
 
-Uma barreira empurra os dois para trás. Angel aparece na entrada.
+Uma barreira empurra os dois para trás. Angel aparece na entrada lateral, separada da passagem por onde Nara e Iren chegaram.
 
 **ANGEL**  
 Você está tentando proteger a estrutura ou impedir que ela escolha?
