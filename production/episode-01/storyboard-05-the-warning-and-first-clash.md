@@ -8,6 +8,8 @@
 
 > Documento de pré-produção. O confronto deve ser legível, breve e baseado em decisões. Não é uma demonstração definitiva do potencial de Angel, nem uma revelação completa do funcionamento da estrutura.
 
+**Status dos diálogos:** falas que também constam no roteiro literário são a versão de referência. Falas adicionais presentes apenas neste storyboard são propostas de encenação, não texto aprovado para gravação; só entram na versão final após incorporação ao roteiro e aprovação.
+
 ## Intenção dramática
 
 O adversário não luta por prazer nem por desejo de domínio. Ele acredita que impedir a aproximação é a única maneira de evitar uma repetição de consequências que já testemunhou. O perigo nasce do conflito entre uma preocupação legítima e um método cada vez mais arriscado.
@@ -42,8 +44,6 @@ A sequência deve mostrar três competências complementares:
 - **Diálogo:**
   - **IREN:** “Então por que quer impedir que a gente chegue perto?”
   - **ADVERSÁRIO:** “Porque vocês não sabem o que estão prestes a acordar.”
-  - **NARA:** “Você sabe?”
-  - **ADVERSÁRIO:** “Se soubesse, talvez já tivesse ido embora.”
 - **Atuação:** o adversário não faz pose ameaçadora; sua resposta revela exaustão e cautela.
 - **Objetivo:** estabelecer que ele tem informações, mas não uma explicação completa.
 
