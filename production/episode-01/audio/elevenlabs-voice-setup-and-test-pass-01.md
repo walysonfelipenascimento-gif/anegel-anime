@@ -1,3 +1,15 @@
+# Documento substituído — ElevenLabs
+
+**Estado:** não usar como plano de produção. O usuário reconsiderou a ferramenta por causa do sistema de créditos e solicitou uma alternativa gratuita.
+
+A ferramenta de teste passa a ser **Microsoft Clipchamp**, exclusivamente pelos recursos gratuitos disponíveis, sem assinatura, compra de créditos ou ativação de teste pago.
+
+Documento atual: [clipchamp-free-voice-setup-and-test-pass-01.md](clipchamp-free-voice-setup-and-test-pass-01.md).
+
+O conteúdo abaixo foi preservado apenas como histórico da primeira proposta; não representa a ferramenta aprovada atualmente.
+
+---
+
 # ANGEL — configuração inicial de vozes no ElevenLabs
 
 **Data:** 13/11/2026  
