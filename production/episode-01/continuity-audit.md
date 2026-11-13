@@ -144,3 +144,52 @@ O episódio poderá avançar para animatic quando:
 A história e os arcos centrais funcionam. Os problemas encontrados são principalmente de sincronização documental e clareza de encenação, não exigem reiniciar o episódio nem mudar seu cânone. Nenhum conteúdo sobre a cosmologia profunda, a origem de Angel ou a identidade do adversário deve ser acrescentado para resolver essas pendências.
 
 **Próximo trabalho autorizado pela sequência de produção:** corrigir o Storyboard 07 e consolidar os documentos de produção, mantendo o episódio e o repositório ANGEL completamente separados da Nexora.
+
+---
+
+## Adendo 2 — auditoria cruzada de cenários, objetos e roteiro (13/11/2026)
+
+### Escopo adicional conferido
+
+Foram relidos o roteiro literário e os sete storyboards, além dos novos guias de geografia de Auren, observatório, câmara e objetos. A documentação de produção também inclui os briefs de Nara, Iren, adversário, instrumento e marca ciano.
+
+### Correções aplicadas ao roteiro literário
+
+**C-03 — placa externa versus teto**
+
+O roteiro dizia que “parte do teto começa a ceder”, o que entrava em conflito com a continuidade aprovada no Storyboard 06: uma única placa arquitetônica externa, parcialmente desprendida dos apoios laterais/superiores, enquanto o teto principal permanece estável.
+
+**Correção aplicada:** o roteiro agora identifica a placa externa única e declara que o teto principal permanece estável. Angel sustenta essa mesma placa.
+
+**C-04 — ambiguidade de uma segunda placa**
+
+O roteiro também dizia que “a placa central começa a fechar sobre o desenho”, o que poderia ser interpretado como uma segunda placa móvel, contrariando a regra de uma única placa desprendida.
+
+**Correção aplicada:** a frase agora descreve o padrão central se fechando e as relações entre sinais ficando mais difíceis de acompanhar. Não há uma segunda placa caindo ou se movendo.
+
+### Verificações de continuidade confirmadas
+
+- **Storyboard 02:** a apresentação de Auren, o mercado, a atuação de Angel e o observatório correspondem ao roteiro-base. A linha que pulsa em sentido contrário é um prenúncio, não uma segunda anomalia independente.
+- **Storyboard 03:** o silêncio dos sinos, a suspensão de movimentos e a ausência das linhas no mapa preservam a diferença entre algo quebrado e algo que deixou de estar presente. A criança recebe orientação prática de Angel.
+- **Storyboard 04:** Nara e Iren usam a passagem de manutenção; Angel encontra uma entrada separada. Os trajetos não devem ser fundidos na planta.
+- **Storyboard 05:** o instrumento altera a percepção de distância, não a posição física dos personagens. Iren usa ecos e experiência; Nara observa os padrões; Angel interrompe localmente a técnica.
+- **Storyboard 06:** a placa externa é única; Angel a sustenta com esforço; Iren orienta a retirada; Nara registra relações; o adversário reduz a contenção sem desligar totalmente o instrumento.
+- **Storyboard 07:** a ordem das duas vozes, o retorno à câmara, o aviso do adversário e a saída do trio seguem a ordem aprovada. A linha inesperada no caderno não brilha nem se move.
+- **Auren:** os guias de geografia e observatório estabelecem relações funcionais, mas ainda não são plantas desenhadas. Não há escala métrica aprovada.
+- **Objetos:** caderno, bolsa, instrumento, anéis, placas, inscrições e marca ciano têm briefs de continuidade. Formas, dimensões, materiais e paletas ainda precisam de aprovação visual.
+
+### Pendências que continuam abertas
+
+1. Harmonizar no roteiro literário os diálogos expandidos dos Storyboards 03–07. Não foram incorporados automaticamente: a consolidação precisa preservar ritmo, voz e intenção, e evitar duplicações.
+2. Definir a posição anatômica final e o desenho exato da marca ciano de Angel.
+3. Definir alturas de Nara e Iren antes de produzir escala comparativa do elenco.
+4. Desenhar plantas superiores e cortes de Auren, observatório e câmara; os guias textuais não substituem esses desenhos.
+5. Definir materiais, paletas e geometrias finais dos objetos sem antecipar lore.
+6. Criar modelos visuais de figurantes e espécies de Auren.
+7. Associar cues de áudio a quadros específicos; o cue sheet atual é uma guia de direção, não uma mixagem ou sincronização final.
+
+### Estado atualizado
+
+A inconsistência textual da placa/teto foi corrigida no roteiro e conferida no GitHub. A leitura cruzada não indica necessidade de reiniciar o episódio nem alterar o cânone. **Ainda não liberar o animatic final:** primeiro concluir a harmonização dos diálogos, as plantas de cenário e a aprovação dos model sheets/objetos essenciais.
+
+As referências de atmosfera de Auren e do observatório foram apreciadas pelo usuário como direção visual desejada, mas permanecem referências ilustrativas, não designs finais aprovados nem ativos oficiais do projeto.
