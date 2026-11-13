@@ -90,6 +90,6 @@ A primeira integração seletiva foi aplicada ao roteiro literário e verificada
 
 Documento de registro: `dialogue-integration-pass-01.md`.
 
-**Nova pendência de continuidade:** o Storyboard 03 (sequência C, quadros 15–18) e o Storyboard 04 (sequência A, quadro 02) mostram Angel junto de Nara e Iren na entrada de manutenção, enquanto o roteiro e as sequências posteriores do Storyboard 04 estabelecem caminhos separados. A decisão provisória é preservar as rotas separadas: Nara e Iren seguem pela galeria; Angel usa a passagem oculta; os caminhos convergem na câmara. Corrigir os quadros conflitantes antes do animatic.
+**Nova pendência de continuidade:** o Storyboard 03 (sequência C, quadros 15–18) e o Storyboard 04 (sequência A, quadro 02) mostram Angel junto de Nara e Iren na entrada de manutenção, enquanto o roteiro e as sequências posteriores do Storyboard 04 estabelecem caminhos separados. A decisão foi aplicada: Nara e Iren seguem pela galeria; Angel usa a passagem oculta; os caminhos convergem na câmara. Os quadros conflitantes dos Storyboards 03 e 04 foram corrigidos e verificados.
 
 **Estado:** primeira integração concluída; leitura de mesa, cronometragem e correção dos storyboards ainda pendentes. Não liberar animatic final.
