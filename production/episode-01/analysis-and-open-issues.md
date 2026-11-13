@@ -102,3 +102,8 @@ A leitura editorial textual do roteiro integrado foi concluída e registrada em 
 A contagem aproximada é de 2.970 palavras totais e 1.065 palavras faladas. A estimativa inicial de narrativa é de **18–22 minutos**, sem abertura ou encerramento musicais separados. A duração ainda não está aprovada; depende de leitura vocal e teste em animatic.
 
 **Estado atual:** primeira integração de diálogos concluída; divergência de rotas nos Storyboards 03 e 04 corrigida; leitura editorial textual concluída. Permanecem pendentes leitura vocal, cronometragem real, sincronização final de áudio e aprovação visual de cenários, personagens e objetos. Não liberar animatic final.
+
+
+## Atualização de continuidade — 13/11/2026
+
+A revisão integral dos percursos encontrou uma sobra da inconsistência C-05: o Storyboard 04 ainda posicionava Angel na mesma galeria/bifurcação de Nara e Iren (quadros 07 e 12), apesar de a rota independente já estar indicada em outras partes. Essa sobra foi corrigida como C-06. O Storyboard 04 agora mantém a escadaria e a parede oculta de Angel fisicamente separadas do percurso de manutenção da dupla; o escopo do Storyboard 03 e o guia do observatório também foram alinhados. Os personagens só convergem na câmara. A planta precisa representar dois acessos distintos antes dos painéis visuais.
