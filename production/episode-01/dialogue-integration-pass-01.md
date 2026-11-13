@@ -50,7 +50,7 @@ O Storyboard 03, sequência C, quadros 15–18, e o Storyboard 04, sequência A,
 1. o roteiro literário, no qual Nara e Iren descem e Angel segue por uma entrada separada;
 2. o próprio Storyboard 04, sequências C e D, que mostra Angel entrando por uma parede oculta enquanto Nara e Iren seguem por outra rota.
 
-**Decisão provisória de continuidade:** preservar a separação dos caminhos, porque ela mantém a descoberta independente de Nara e Iren e a entrada paralela de Angel. Corrigir os quadros 15–18 do Storyboard 03 e o quadro 02 do Storyboard 04 antes do animatic. Não alterar o roteiro para acomodar a contradição.
+**Decisão provisória de continuidade:** preservar a separação dos caminhos, porque ela mantém a descoberta independente de Nara e Iren e a entrada paralela de Angel. **Correção aplicada e verificada:** os quadros 15–18 do Storyboard 03 agora acompanham Nara e Iren pela entrada de manutenção, enquanto Angel segue sem compartilhar essa rota. O quadro 02 do Storyboard 04 também mostra somente Nara e Iren. Não foi necessário alterar o roteiro.
 
 ## Correção de continuidade confirmada durante a integração
 
@@ -61,7 +61,7 @@ Na cena 10, foi removida a frase antiga que sugeria que parte do teto cedia. A v
 1. Leitura de mesa integral, verificando naturalidade, sobreposição de informação e consistência das vozes.
 2. Ajustar falas que soem explicativas ou longas demais, sem apagar a contribuição dos três protagonistas.
 3. Cronometrar cenas, atos, pausas e silêncios.
-4. Corrigir os dois storyboards com a divergência de rotas.
+4. Conferir a continuidade já corrigida nos Storyboards 03 e 04 durante a leitura corrida.
 5. Atualizar decupagem e cue sheet somente depois de aprovada a leitura.
 
 **Não liberar animatic final ainda.**
