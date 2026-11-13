@@ -8,6 +8,8 @@
 
 > Documento de pré-produção. A arquitetura e os objetos descritos são propostas visuais coerentes com o roteiro, mas não definem a origem da estrutura nem o passado de Angel.
 
+**Status dos diálogos:** falas que também constam no roteiro literário são a versão de referência. Falas adicionais presentes apenas neste storyboard são propostas de encenação, não texto aprovado para gravação; só entram na versão final após incorporação ao roteiro e aprovação.
+
 ## Intenção dramática
 
 A descida deve parecer uma transição de um espaço conhecido para outro que foi esquecido, não uma sequência de sustos. Nara e Iren descobrem evidências de presença anterior por observação e raciocínio. Em paralelo, Angel encontra uma passagem que parece reconhecer sua presença — sem explicar como ele sabe onde procurar. As duas linhas narrativas convergem na câmara, mas não precisam chegar ao mesmo tempo.
