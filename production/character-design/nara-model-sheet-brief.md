@@ -41,3 +41,24 @@ O caderno/mapa deve permitir que Nara registre padrões e intervalos da estrutur
 - Definir se a roupa será mantida como exploração verde-oliva/amarela ou redesenhada para Auren.
 - Definir o kit cartográfico exato e o que ela carrega no episódio.
 - Criar color key original e vistas ortográficas.
+
+## Leitura técnica ampliada da imagem recebida
+
+**Silhueta:** cabelo castanho longo é o elemento de maior leitura à distância; o chapéu claro e os óculos ajudam a identificar a personagem, enquanto a bolsa lateral e o mapa comunicam trabalho de campo. A silhueta precisa continuar legível quando o mapa estiver guardado.
+
+**Rosto e cabelo:** a referência sugere olhos dourados/âmbar, óculos redondos e franja castanha. Registrar como direção provisória; formato exato dos olhos, tom de pele, comprimento final e volume do cabelo aguardam aprovação.
+
+**Vestuário:** jaqueta verde-oliva com acentos amarelos sobre peça interna clara, parte inferior escura e calçado adequado a caminhada. A referência inclui acessórios e tiras; redesenhar com função prática, sem copiar recortes ou detalhes específicos e sem usar tiras decorativas que prejudiquem o movimento.
+
+**Equipamento cartográfico:** mapa dobrável ou caderno de campo, bolsa de transporte e instrumento de orientação. O objeto usado para medir/registrar rotas celestes deve ser definido com o roteiro e permanecer consistente entre cenas. O mapa mostrado na referência não deve ser tratado como mapa canônico de Auren.
+
+## Atuação visual em cenas-chave
+
+- No observatório: inclinação do corpo em direção ao instrumento, olhar alternando entre céu e registro.
+- Ao notar a linha ausente: foco visual e interrupção breve do gesto; a descoberta deve ser legível sem exagero facial.
+- Na câmara: mãos cuidadosas ao acompanhar inscrições e registrar intervalos; não fazer o mapa “resolver” sozinho o mistério.
+- Em movimento: cabelo e acessórios acompanham a ação sem ocultar o rosto ou atrapalhar mãos e instrumentos.
+
+## Controle de cânone
+
+Não estão definidos altura, peso, medidas corporais, tom de pele, desenho anatômico final, material definitivo dos óculos, nem se chapéu e saia serão mantidos. Não preencher essas lacunas por inferência da imagem. A roupa pode ser redesenhada para Auren, preservando a leitura de cartógrafa viajante.
