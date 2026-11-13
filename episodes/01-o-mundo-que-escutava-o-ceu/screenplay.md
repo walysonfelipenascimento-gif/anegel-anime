@@ -484,7 +484,7 @@ Se interromper de uma vez, talvez leve junto o que ainda está mantendo tudo con
 **ADVERSÁRIO**  
 Não vou esperar para descobrir.
 
-Uma onda de contenção atinge a base da estrutura; uma rachadura luminosa atravessa a câmara. Parte do teto começa a ceder.
+Uma onda de contenção atinge a base da estrutura; uma rachadura luminosa atravessa a câmara.
 
 Iren identifica a saída pela corrente de ar e pelo retorno dos ecos.
 
@@ -492,6 +492,8 @@ Iren identifica a saída pela corrente de ar e pelo retorno dos ecos.
 A passagem ainda está aberta. Mas não sigam o centro do corredor — o eco está devolvendo a distância errada!
 
 Uma única placa arquitetônica externa, parcialmente desprendida de seus apoios laterais/superiores, começa a tombar em direção ao centro. O teto principal permanece estável. Angel sustenta essa mesma placa; a marca ciano reaparece, irregular, e o esforço não parece simples para ele.
+
+Iren conduz Nara para uma posição lateral, fora da trajetória da placa.
 
 O adversário vê a marca e empalidece.
 
@@ -507,8 +509,6 @@ O padrão central começa a se fechar e as relações entre os sinais ficam mais
 
 **NARA**  
 O desenho está mudando!
-
-Iren conduz Nara para uma posição lateral, fora da trajetória da placa.
 
 **IREN**  
 Eu encontrei a saída. Agora preciso que você confie em mim por alguns passos.
@@ -539,6 +539,16 @@ Vi.
 **IREN**  
 Ótimo. Porque eu não sei se vai acontecer outra vez.
 
+O adversário hesita, olhando para a contenção ainda ativa.
+
+**ADVERSÁRIO**  
+Se eu soltar, não sei o que vai acontecer.
+
+**ANGEL**  
+E se continuar segurando desse jeito, já estamos vendo.
+
+Ele reduz a pressão do instrumento, sem desligá-lo por completo.
+
 Nara decide registrar o que ainda permanece visível antes que desapareça.
 
 **IREN**  
@@ -559,16 +569,6 @@ Tudo?
 Não. O suficiente para saber que falta alguma coisa.
 
 O pulso diminui. A placa para.
-
-O adversário hesita, olhando para a contenção ainda ativa.
-
-**ADVERSÁRIO**  
-Se eu soltar, não sei o que vai acontecer.
-
-**ANGEL**  
-E se continuar segurando desse jeito, já estamos vendo.
-
-Ele reduz a pressão do instrumento, sem desligá-lo por completo.
 
 O adversário abaixa o instrumento.
 
