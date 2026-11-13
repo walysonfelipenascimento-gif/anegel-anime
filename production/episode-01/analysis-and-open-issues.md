@@ -116,3 +116,8 @@ O passe 01 de auditoria cruzada foi concluído e registrado em storyboard-cross-
 A lista de planos e o cue sheet não exigiram reordenação nesta passagem. O roteiro literário foi preservado. A auditoria textual não substitui leitura vocal, plantas desenhadas, model sheets, painéis visuais ou animatic.
 
 **Próxima etapa:** leitura vocal guiada e planejamento relacional das plantas de Auren e dos dois acessos subterrâneos. Não liberar animatic final antes da aprovação dos elementos visuais e da validação de ritmo.
+
+
+## Preparação da leitura vocal — 13/11/2026
+
+Foi criado e verificado voice-read-through-guide-pass-01.md. O guia define direção de voz por personagem, intenção por cena, regras de gravação e folha de registro para duração e ajustes. Trata-se de preparação editorial; nenhuma leitura vocal, gravação ou cronometragem real foi realizada. A estimativa de 18–22 minutos permanece preliminar até a sessão.
