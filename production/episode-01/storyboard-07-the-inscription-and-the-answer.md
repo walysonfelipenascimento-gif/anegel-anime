@@ -3,7 +3,7 @@
 **Projeto:** ANGEL  
 **Episódio:** 01 — O mundo que escutava o céu  
 **Versão:** 1.0 — planejamento técnico de storyboard  
-**Escopo:** continuação direta do quadro 26 do Storyboard 06; reconhecimento da estrutura, diálogo entre Angel e a voz desconhecida, reação além de Auren e encerramento do episódio.
+**Escopo:** continuação direta do quadro 26 do Storyboard 06; reconhecimento da estrutura, primeira voz e resposta de Angel, repercussão além de Auren, retorno à câmara e encerramento do episódio.
 
 > Documento de pré-produção. Este é o encerramento do primeiro episódio, não uma explicação do mistério. A sequência deve concluir a experiência emocional de Auren e, ao mesmo tempo, abrir uma pergunta maior.
 
@@ -20,6 +20,8 @@ A sequência final precisa preservar quatro pontos:
 - **Angel** não explica a voz nem confirma o que ela significa. Seu silêncio preserva o mistério.
 
 ## Continuidade visual e espacial
+
+- A ordem dramática deve seguir o roteiro literário: “Você demorou” / “Eu sei”; corte para além de Auren com a segunda conversa; retorno à câmara; perguntas de Nara e Iren; aviso do adversário; pergunta de Angel; saída.
 
 - Começar exatamente com a câmara parcialmente estabilizada do Storyboard 06.
 - Manter a rachadura no piso, os anéis incompletos e a linha ainda ativa no instrumento do adversário.
@@ -90,7 +92,7 @@ A sequência final precisa preservar quatro pontos:
 
 ---
 
-## Sequência B — “Você demorou”
+## Sequência B — A primeira voz e a resposta
 
 ### 08 — A câmara fica em silêncio
 - **Enquadramento:** plano geral fixo, com os quatro personagens visíveis em posições distintas.
@@ -129,76 +131,25 @@ A sequência final precisa preservar quatro pontos:
 - **Som:** ressonância curta, sem explosão, coro ou impacto grave.
 - **Objetivo:** dar uma consequência visual à resposta sem mostrar o que a estrutura realmente é.
 
-### 13 — Nara tenta compreender
-- **Enquadramento:** plano médio de Nara, com o caderno junto ao peito.
-- **Diálogo:**
-  - **NARA:** “Quem falou com você?”
-  - **ANGEL:** “Eu não sei se foi comigo.”
-- **Atuação:** Angel responde honestamente; não deve parecer que está brincando com a pergunta.
-- **Objetivo:** manter a distinção entre reconhecer uma voz e compreender sua intenção.
-
-### 14 — Iren quebra a tensão
-- **Enquadramento:** plano de dois, Iren em primeiro plano e Angel ao fundo.
-- **Diálogo:**
-  - **IREN:** “Você tem uma maneira muito estranha de não saber das coisas.”
-  - **ANGEL:** “É uma habilidade que venho aperfeiçoando.”
-- **Atuação:** humor pequeno, quase sussurrado. Nara não abandona a atenção à estrutura.
-- **Objetivo:** preservar a personalidade do trio mesmo diante do mistério.
-
-### 15 — A pergunta que fica
-- **Enquadramento:** plano médio de Nara e Angel.
-- **Diálogo:**
-  - **NARA:** “Você sabia que essa estrutura existia?”
-  - **ANGEL:** “Eu sabia que algo estava faltando.”
-  - **NARA:** “Isso não é a mesma coisa.”
-  - **ANGEL:** “Não. Não é.”
-- **Atuação:** Angel não foge da distinção nem inventa uma explicação. Nara mantém sua autonomia e questiona a resposta.
-- **Objetivo:** aprofundar a relação entre os personagens e deixar claro que Angel também tem limites de conhecimento.
-
-### 16 — Guardar o registro
-- **Enquadramento:** close do caderno nas mãos de Nara; Angel entra parcialmente no quadro.
-- **Diálogo:**
-  - **ANGEL:** “Guarde isso. Não porque já entendemos o que significa, mas porque, quando encontrarmos a próxima parte, você vai precisar lembrar exatamente do que viu hoje.”
-  - **NARA:** “E se a próxima parte for pior?”
-  - **ANGEL:** “Então será ainda mais importante lembrar com clareza.”
-- **Ação:** Nara fecha o caderno com cuidado. Não há brilho ou selo mágico.
-- **Objetivo:** encerrar o arco investigativo do episódio com uma orientação concreta, coerente com a sabedoria de Angel.
-
 ---
 
-## Sequência C — A segunda voz
+## Sequência C — A repercussão além de Auren
 
-### 17 — O aviso do adversário
-- **Enquadramento:** plano médio do adversário, separado visualmente dos outros pela placa externa.
-- **Diálogo:**
-  - **ADVERSÁRIO:** “Se ouvirem outra vez... não respondam.”
-- **Atuação:** não é uma ameaça. É um aviso sério, dado por alguém que conhece parte do risco.
-- **Ação:** ele olha para a inscrição, não para Angel.
-- **Objetivo:** manter o adversário como fonte incompleta de informação e preservar sua relevância futura.
-
-### 18 — Angel devolve a pergunta
-- **Enquadramento:** plano de perfil de Angel; o adversário permanece ao fundo.
-- **Diálogo:**
-  - **ANGEL:** “Você também ouviu?”
-- **Ação:** Angel não se vira completamente. O adversário não responde.
-- **Som:** a frequência distante retorna, quase imperceptível.
-- **Objetivo:** sugerir que a voz pode não ser exclusiva de Angel, sem confirmar quem mais a ouviu.
-
-### 19 — Corte para além de Auren
+### 13 — Corte para além de Auren
 - **Enquadramento:** corte seco para um local não identificado. Não mostrar céu, horizonte ou escala que permita localizar o espaço.
 - **Imagem:** uma superfície escura e opaca reflete pontos que não correspondem a estrelas. Um deles se acende, sem iluminar o ambiente inteiro.
 - **Som:** a mesma ressonância da câmara, mas distante e com outra textura.
 - **Câmera:** plano imóvel; não revelar uma figura completa.
 - **Objetivo:** mostrar que a resposta teve uma repercussão além de Auren, sem explicar a geografia ou a natureza do lugar.
 
-### 20 — “Então encontrou o caminho”
+### 14 — “Então encontrou o caminho”
 - **Enquadramento:** manter a superfície e o ponto aceso; nenhuma boca ou personagem visível.
 - **Diálogo — SEGUNDA VOZ (V.O.):**
   - “Então encontrou o caminho.”
 - **Atuação vocal:** voz distinta da primeira, mas sem caricatura, ameaça ou reverberação exagerada.
 - **Objetivo:** introduzir uma segunda perspectiva sem apresentar um novo personagem visualmente.
 
-### 21 — A correção
+### 15 — A correção
 - **Enquadramento:** mesmo plano, sem movimento de câmera.
 - **Diálogo — PRIMEIRA VOZ (V.O.):**
   - “Não. O caminho encontrou alguém.”
@@ -208,18 +159,73 @@ A sequência final precisa preservar quatro pontos:
 
 ---
 
-## Sequência D — Auren continua
+## Sequência D — O retorno à câmara
 
-### 22 — Retorno à câmara
+### 16 — Retorno à câmara
 - **Enquadramento:** corte para o mesmo plano geral da câmara usado no quadro 08.
 - **Ação:** ninguém fala por alguns segundos. Nara segura o caderno; Iren observa a saída; o adversário permanece junto à estrutura; Angel olha para os anéis.
 - **Som:** o ambiente retorna aos poucos, sem música triunfal.
 - **Objetivo:** trazer a narrativa de volta ao grupo e evitar que a cena além de Auren pareça substituir os protagonistas.
 
-### 23 — O que permanece
+### 17 — O que permanece
 - **Enquadramento:** plano detalhe da rachadura, dos anéis incompletos e do instrumento.
 - **Ação:** a rachadura continua visível; os anéis voltam à posição irregular; uma linha do instrumento ainda pulsa.
 - **Objetivo:** confirmar que o acontecimento não resolveu o mistério nem apagou suas consequências.
+
+### 18 — Nara tenta compreender
+- **Enquadramento:** plano médio de Nara, com o caderno junto ao peito.
+- **Diálogo:**
+  - **NARA:** “Quem falou com você?”
+  - **ANGEL:** “Eu não sei se foi comigo.”
+- **Atuação:** Angel responde honestamente; não deve parecer que está brincando com a pergunta.
+- **Objetivo:** manter a distinção entre reconhecer uma voz e compreender sua intenção.
+
+### 19 — Iren quebra a tensão
+- **Enquadramento:** plano de dois, Iren em primeiro plano e Angel ao fundo.
+- **Diálogo:**
+  - **IREN:** “Você tem uma maneira muito estranha de não saber das coisas.”
+  - **ANGEL:** “É uma habilidade que venho aperfeiçoando.”
+- **Atuação:** humor pequeno, quase sussurrado. Nara não abandona a atenção à estrutura.
+- **Objetivo:** preservar a personalidade do trio mesmo diante do mistério.
+
+### 20 — A pergunta que fica
+- **Enquadramento:** plano médio de Nara e Angel.
+- **Diálogo:**
+  - **NARA:** “Você sabia que essa estrutura existia?”
+  - **ANGEL:** “Eu sabia que algo estava faltando.”
+  - **NARA:** “Isso não é a mesma coisa.”
+  - **ANGEL:** “Não. Não é.”
+- **Atuação:** Angel não foge da distinção nem inventa uma explicação. Nara mantém sua autonomia e questiona a resposta.
+- **Objetivo:** aprofundar a relação entre os personagens e deixar claro que Angel também tem limites de conhecimento.
+
+### 21 — Guardar o registro
+- **Enquadramento:** close do caderno nas mãos de Nara; Angel entra parcialmente no quadro.
+- **Diálogo:**
+  - **ANGEL:** “Guarde isso. Não porque já entendemos o que significa, mas porque, quando encontrarmos a próxima parte, você vai precisar lembrar exatamente do que viu hoje.”
+  - **NARA:** “E se a próxima parte for pior?”
+  - **ANGEL:** “Então será ainda mais importante lembrar com clareza.”
+- **Ação:** Nara fecha o caderno com cuidado. Não há brilho ou selo mágico.
+- **Objetivo:** encerrar o arco investigativo do episódio com uma orientação concreta, coerente com a sabedoria de Angel.
+
+### 22 — O aviso do adversário
+- **Enquadramento:** plano médio do adversário, separado visualmente dos outros pela placa externa.
+- **Diálogo:**
+  - **ADVERSÁRIO:** “Se ouvirem outra vez... não respondam.”
+- **Atuação:** não é uma ameaça. É um aviso sério, dado por alguém que conhece parte do risco.
+- **Ação:** ele olha para a inscrição, não para Angel.
+- **Objetivo:** manter o adversário como fonte incompleta de informação e preservar sua relevância futura.
+
+### 23 — Angel devolve a pergunta
+- **Enquadramento:** plano de perfil de Angel; o adversário permanece ao fundo.
+- **Diálogo:**
+  - **ANGEL:** “Você também ouviu?”
+- **Ação:** Angel não se vira completamente. O adversário não responde.
+- **Som:** a frequência distante retorna, quase imperceptível.
+- **Objetivo:** sugerir que a voz pode não ser exclusiva de Angel, sem confirmar quem mais a ouviu.
+
+---
+
+## Sequência E — Auren continua
 
 ### 24 — Saída da câmara
 - **Enquadramento:** plano de acompanhamento pelo corredor já estabelecido.
@@ -273,7 +279,6 @@ A sequência final precisa preservar quatro pontos:
 - **Duração:** sustentar a frase tempo suficiente para leitura e reflexão.
 - **Objetivo:** encerrar o episódio com a ideia central da obra e deixar a última impressão ressoar.
 
----
 
 ## Direção de som e música
 
