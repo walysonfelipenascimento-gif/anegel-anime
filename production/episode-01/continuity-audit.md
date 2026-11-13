@@ -193,3 +193,19 @@ O roteiro também dizia que “a placa central começa a fechar sobre o desenho�
 A inconsistência textual da placa/teto foi corrigida no roteiro e conferida no GitHub. A leitura cruzada não indica necessidade de reiniciar o episódio nem alterar o cânone. **Ainda não liberar o animatic final:** primeiro concluir a harmonização dos diálogos, as plantas de cenário e a aprovação dos model sheets/objetos essenciais.
 
 As referências de atmosfera de Auren e do observatório foram apreciadas pelo usuário como direção visual desejada, mas permanecem referências ilustrativas, não designs finais aprovados nem ativos oficiais do projeto.
+
+
+## Adendo 3 — rotas separadas de Angel, Nara e Iren (13/11/2026)
+
+### Achado C-05 — reunião na entrada versus entradas paralelas
+
+- **Storyboard 03, sequência C, quadros 15–18:** mostra Angel chegando ao observatório, reunindo-se a Nara e Iren e seguindo com os dois em direção à entrada de manutenção.
+- **Storyboard 04, sequência A, quadro 02:** também posiciona os três diante da mesma abertura.
+- **Contradição:** o roteiro literário estabelece que Nara e Iren descem pela passagem de manutenção, enquanto Angel segue por uma entrada separada. O próprio Storyboard 04, sequências C e D, mostra Angel encontrando uma parede oculta e entrando por ela, enquanto Nara e Iren seguem por outro corredor.
+- **Impacto:** a geografia e a lógica de convergência ficam ambíguas; a equipe pode desenhar os personagens compartilhando um percurso que depois deveria ser separado.
+- **Decisão provisória:** preservar a versão em que os caminhos são independentes até a câmara. Nara e Iren investigam a galeria e seguem o desvio; Angel usa a entrada oculta. Os três convergem na câmara sem que Nara e Iren tenham visto a passagem de Angel abrir.
+- **Correção necessária:** ajustar os quadros 15–18 do Storyboard 03 e o quadro 02 do Storyboard 04 para não mostrar Angel acompanhando a dupla pela entrada de manutenção. Não alterar o roteiro literário para acomodar a divergência.
+
+### Estado após a integração de diálogos
+
+A primeira integração seletiva dos diálogos dos Storyboards 03–07 foi aplicada e verificada no roteiro literário. O registro das escolhas e omissões está em `dialogue-integration-pass-01.md`. A leitura de mesa e a cronometragem ainda não foram realizadas. A divergência C-05 deve ser corrigida nos storyboards antes do animatic.
