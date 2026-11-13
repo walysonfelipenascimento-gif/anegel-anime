@@ -204,8 +204,8 @@ As referências de atmosfera de Auren e do observatório foram apreciadas pelo u
 - **Contradição:** o roteiro literário estabelece que Nara e Iren descem pela passagem de manutenção, enquanto Angel segue por uma entrada separada. O próprio Storyboard 04, sequências C e D, mostra Angel encontrando uma parede oculta e entrando por ela, enquanto Nara e Iren seguem por outro corredor.
 - **Impacto:** a geografia e a lógica de convergência ficam ambíguas; a equipe pode desenhar os personagens compartilhando um percurso que depois deveria ser separado.
 - **Decisão provisória:** preservar a versão em que os caminhos são independentes até a câmara. Nara e Iren investigam a galeria e seguem o desvio; Angel usa a entrada oculta. Os três convergem na câmara sem que Nara e Iren tenham visto a passagem de Angel abrir.
-- **Correção necessária:** ajustar os quadros 15–18 do Storyboard 03 e o quadro 02 do Storyboard 04 para não mostrar Angel acompanhando a dupla pela entrada de manutenção. Não alterar o roteiro literário para acomodar a divergência.
+- **Correção aplicada:** os quadros 15–18 do Storyboard 03 foram reorganizados para acompanhar Nara e Iren até a entrada de manutenção, sem incluir Angel na mesma rota. O quadro 02 do Storyboard 04 agora mostra apenas Nara e Iren. Angel mantém a entrada paralela pela parede oculta. As duas alterações foram verificadas no GitHub.
 
 ### Estado após a integração de diálogos
 
-A primeira integração seletiva dos diálogos dos Storyboards 03–07 foi aplicada e verificada no roteiro literário. O registro das escolhas e omissões está em `dialogue-integration-pass-01.md`. A leitura de mesa e a cronometragem ainda não foram realizadas. A divergência C-05 deve ser corrigida nos storyboards antes do animatic.
+A primeira integração seletiva dos diálogos dos Storyboards 03–07 foi aplicada e verificada no roteiro literário. O registro das escolhas e omissões está em `dialogue-integration-pass-01.md`. A leitura de mesa e a cronometragem ainda não foram realizadas. A divergência C-05 foi corrigida nos Storyboards 03 e 04 e verificada. A leitura de mesa e a cronometragem continuam pendentes.
