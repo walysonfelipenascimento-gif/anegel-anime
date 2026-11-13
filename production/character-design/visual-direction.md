@@ -49,3 +49,11 @@ Foram criados briefs técnicos adicionais:
 - `adversary-instrument-prop-brief.md`: estados e continuidade do instrumento preso ao antebraço.
 
 A escala comparativa dos três protagonistas permanece pendente até que as alturas de Nara e Iren sejam definidas. O adversário também não recebe altura ou anatomia inventada.
+
+## Cenários do episódio 01 — documentação técnica
+
+- `../episode-01/environment-design/auren-city-geography.md`: geografia relacional de Auren, camadas de altura, marcos urbanos e rotas.
+- `../episode-01/environment-design/observatory-layout-and-continuity.md`: layout funcional do Observatório das Rotas, projeções, instrumentos e eixos de câmera.
+- `../episode-01/environment-design/chamber-layout-and-continuity.md`: planta e continuidade da câmara subterrânea.
+
+Esses documentos são guias de pré-produção. Não substituem plantas desenhadas nem painéis de storyboard; dimensões e materiais ainda não definidos permanecem pendentes.
