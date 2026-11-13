@@ -34,14 +34,13 @@ A descida deve parecer uma transição de um espaço conhecido para outro que fo
 - **Objetivo:** mostrar que a entrada está integrada à infraestrutura de Auren, não isolada num lugar aleatório.
 
 ### 02 — A decisão de entrar
-- **Enquadramento:** plano médio dos três diante da abertura.
-- **Ação:** Nara confere o registro; Iren observa o estado da passagem; Angel espera sem pressionar os outros.
+- **Enquadramento:** plano médio de Nara e Iren diante da abertura.
+- **Ação:** Nara confere o registro; Iren observa o estado da passagem. Angel não está presente nesta rota.
 - **Diálogo:**
   - **IREN:** “Eu conheço a entrada. Não conheço o que vem depois.”
   - **NARA:** “Então vamos descobrir sem presumir.”
-  - **ANGEL:** “É um bom começo.”
 - **Atuação:** cautela e curiosidade, sem confiança instantânea.
-- **Objetivo:** reforçar que a decisão pertence ao grupo.
+- **Objetivo:** reforçar que a decisão pertence à dupla e preservar a entrada paralela de Angel.
 
 ### 03 — O primeiro degrau
 - **Enquadramento:** detalhe dos pés descendo uma escada estreita; corte para plano sobre o ombro.
