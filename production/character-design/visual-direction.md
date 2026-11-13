@@ -38,3 +38,14 @@ Para cada personagem: folha de proporções, vistas ortográficas, cabeça e exp
 ## Estado de aprovação
 
 As imagens recebidas são referências iniciais, não arte final nem autorização para reproduzir personagens existentes. Medidas e detalhes não indicados ficam pendentes em vez de serem inventados. Os model sheets só serão considerados aprovados depois de revisão do usuário.
+
+## Expansão do núcleo de produção
+
+Foram criados briefs técnicos adicionais:
+- `nara-model-sheet-brief.md`: leitura ampliada da referência, atuação no observatório e na câmara, equipamento cartográfico e pendências.
+- `iren-model-sheet-brief.md`: leitura ampliada da referência, atuação espacial, bolsa de entregas e pendências.
+- `core-cast-scale-and-continuity.md`: escala conhecida e controle de continuidade; somente Angel tem altura registrada (172 cm).
+- `adversary-model-sheet-brief.md`: direção inicial do adversário, preservando identidade e aparência ainda não reveladas.
+- `adversary-instrument-prop-brief.md`: estados e continuidade do instrumento preso ao antebraço.
+
+A escala comparativa dos três protagonistas permanece pendente até que as alturas de Nara e Iren sejam definidas. O adversário também não recebe altura ou anatomia inventada.
