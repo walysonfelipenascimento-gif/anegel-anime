@@ -30,7 +30,7 @@ Não fixar dimensões, número de janelas ou materiais definitivos sem desenho a
 - Iren fica próximo o bastante para observar o mapa e conversar, mas não bloqueia o acesso de Nara aos instrumentos.
 - Quando sai para terminar entregas, Iren usa o acesso principal.
 - Quando retorna após o fenômeno, sua entrada é vista antes de se aproximar de Nara.
-- Angel chega pelo mesmo acesso principal; sua entrada não deve parecer uma aparição ou teleporte.
+- Angel chega ao observatório pelo acesso principal, sem aparição ou teleporte. Sua chegada não significa que ele se junte à descida de Nara e Iren.
 
 ## Projeção cartográfica
 
@@ -74,7 +74,7 @@ Cada objeto deve ter posição inicial, posição durante o uso e posição apó
 2. **Anomalia inicial:** uma linha pulsa no sentido contrário; o resto permanece estável.
 3. **Silêncio:** as linhas deixam de estar presentes; instrumentos perdem o ruído regular.
 4. **Verificação:** Nara compara registros e identifica o símbolo histórico.
-5. **Preparação:** Nara fecha o caderno; Iren aponta a rota de serviço; Angel se junta a eles.
+5. **Preparação:** Nara fecha o caderno; Iren aponta a rota de serviço. Angel segue por uma escadaria independente e não integra a descida da dupla.
 
 ## Desenhos técnicos necessários
 
