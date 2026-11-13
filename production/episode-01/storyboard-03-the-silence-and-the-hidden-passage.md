@@ -3,7 +3,7 @@
 **Projeto:** ANGEL  
 **Episódio:** 01 — O mundo que escutava o céu  
 **Versão:** 1.0 — planejamento técnico de storyboard  
-**Escopo:** do início da anomalia na praça até Angel, Nara e Iren seguirem em direção às galerias antigas.  
+**Escopo:** do início da anomalia na praça até Nara e Iren iniciarem a descida pela passagem de manutenção; Angel segue em direção ao observatório e depois toma um acesso independente.  
 **Continuidade:** sequência direta do quadro 17 do Storyboard 02.
 
 > Documento de pré-produção. Os planos orientam desenho, montagem e animatic; não definem ainda os designs finais nem explicam a origem do fenômeno.
