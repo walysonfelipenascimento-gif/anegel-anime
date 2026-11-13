@@ -602,6 +602,20 @@ A câmara emite uma luz suave. Não é uma explosão nem um portal: parece recon
 Os símbolos mudam de posição. O desenho no caderno de Nara parece incompleto.
 
 **NARA**  
+Não está repetindo o desenho.
+
+**IREN**  
+Isso é bom?
+
+**NARA**  
+Ainda não sei.
+
+O adversário observa a linha ativa no instrumento, sem tentar corrigi-la.
+
+**ADVERSÁRIO (baixo)**  
+Ela respondeu...
+
+**NARA**  
 Não é uma mensagem.
 
 **IREN**  
