@@ -624,8 +624,6 @@ Você acabou de dizer que era um mapa.
 **NARA**  
 É mais antigo do que um mapa. É uma lembrança de como as coisas se encontravam.
 
-O adversário observa, assustado.
-
 **ADVERSÁRIO**  
 Isso não deveria estar acontecendo.
 
