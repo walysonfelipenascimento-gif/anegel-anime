@@ -55,5 +55,6 @@ A escala comparativa dos três protagonistas permanece pendente até que as altu
 - `../episode-01/environment-design/auren-city-geography.md`: geografia relacional de Auren, camadas de altura, marcos urbanos e rotas.
 - `../episode-01/environment-design/observatory-layout-and-continuity.md`: layout funcional do Observatório das Rotas, projeções, instrumentos e eixos de câmera.
 - `../episode-01/environment-design/chamber-layout-and-continuity.md`: planta e continuidade da câmara subterrânea.
+- `../episode-01/environment-design/route-topology-and-access-control.md`: topologia das duas rotas independentes e controle dos acessos à câmara.
 
 Esses documentos são guias de pré-produção. Não substituem plantas desenhadas nem painéis de storyboard; dimensões e materiais ainda não definidos permanecem pendentes.
