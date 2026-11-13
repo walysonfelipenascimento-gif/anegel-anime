@@ -107,3 +107,12 @@ A contagem aproximada é de 2.970 palavras totais e 1.065 palavras faladas. A es
 ## Atualização de continuidade — 13/11/2026
 
 A revisão integral dos percursos encontrou uma sobra da inconsistência C-05: o Storyboard 04 ainda posicionava Angel na mesma galeria/bifurcação de Nara e Iren (quadros 07 e 12), apesar de a rota independente já estar indicada em outras partes. Essa sobra foi corrigida como C-06. O Storyboard 04 agora mantém a escadaria e a parede oculta de Angel fisicamente separadas do percurso de manutenção da dupla; o escopo do Storyboard 03 e o guia do observatório também foram alinhados. Os personagens só convergem na câmara. A planta precisa representar dois acessos distintos antes dos painéis visuais.
+
+
+## Auditoria cruzada dos sete storyboards — concluída em 13/11/2026
+
+O passe 01 de auditoria cruzada foi concluído e registrado em storyboard-cross-audit-pass-01.md. Foram comparados o roteiro literário, os sete storyboards, a lista de planos, o cue sheet e os guias espaciais. Foram corrigidos: C-06 (separação física definitiva dos percursos de Angel e da dupla), D-01 (repetição de diálogo no Storyboard 05) e D-02 (duas falas antigas de Iren no Storyboard 06). Falas adicionais presentes apenas nos Storyboards 04–07 foram marcadas como propostas, sem autorização para gravação antes de incorporação ao roteiro e aprovação.
+
+A lista de planos e o cue sheet não exigiram reordenação nesta passagem. O roteiro literário foi preservado. A auditoria textual não substitui leitura vocal, plantas desenhadas, model sheets, painéis visuais ou animatic.
+
+**Próxima etapa:** leitura vocal guiada e planejamento relacional das plantas de Auren e dos dois acessos subterrâneos. Não liberar animatic final antes da aprovação dos elementos visuais e da validação de ritmo.
