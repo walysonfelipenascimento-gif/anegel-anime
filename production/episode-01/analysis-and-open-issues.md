@@ -135,3 +135,12 @@ Continuam pendentes a origem exata da escadaria de Angel, as posições relativa
 O usuário aprovou o ElevenLabs como ferramenta-padrão para as vozes do Episódio 01, com a condição explícita de não contratar plano pago, comprar créditos ou realizar qualquer compra. Foi criado `audio/elevenlabs-voice-setup-and-test-pass-01.md` com configuração inicial pt-BR, perfis vocais, frases de teste, critérios de comparação e folha de avaliação.
 
 **Estado:** preparação documental concluída e verificada no GitHub. Nenhuma conta foi acessada, nenhuma voz foi selecionada, nenhum áudio foi gerado ou aprovado. Os testes dependem de o usuário acessar a plataforma e ouvir as amostras disponíveis no plano gratuito. Não enviar credenciais para a conversa nem registrar segredos no repositório.
+
+
+## Atualização da ferramenta de voz — substituição por alternativa gratuita (13/11/2026)
+
+O usuário reconsiderou o ElevenLabs devido ao uso de créditos e pediu uma alternativa de boa qualidade e gratuita. A proposta anterior foi marcada como substituída, sem gerar áudio, comprar créditos ou contratar plano. A ferramenta escolhida para teste passa a ser o **Microsoft Clipchamp**, usando somente recursos que a interface disponibilizar gratuitamente.
+
+Documento de preparação: `audio/clipchamp-free-voice-setup-and-test-pass-01.md`. O documento contém perfis vocais, frases do roteiro, critérios de avaliação e registro de testes.
+
+**Estado real:** ferramenta selecionada para teste, não aprovada como solução final. Nenhuma conta foi acessada, nenhuma voz foi gerada ou aprovada. Confirmar na interface os limites e condições gratuitos antes de cada etapa; interromper se houver solicitação de pagamento, assinatura ou créditos. Não prometer uso gratuito ilimitado.
