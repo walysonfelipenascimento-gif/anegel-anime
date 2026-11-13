@@ -1,6 +1,6 @@
 # Episódio 01 — Análise crítica e pendências
 
-**Atualização:** 12/11/2026 — auditoria de continuidade e correções documentais
+**Atualização:** 13/11/2026 — integração seletiva de diálogos, passe 01
 
 ## O que o episódio precisa cumprir
 
@@ -44,7 +44,7 @@
 - Criar modelos reutilizáveis para espécies e figurantes de Auren.
 
 ### Roteiro, som e ritmo
-- Fazer leitura dramática integral e harmonizar no roteiro literário os diálogos expandidos que forem aprovados.
+- Fazer leitura dramática integral e cronometrar a versão após a primeira integração seletiva; ajustar apenas o que prejudicar naturalidade, ritmo ou clareza.
 - Associar os cues de áudio aos quadros no animatic e ajustar pausas, silêncios e duração.
 - Confirmar a ordem final e a continuidade de todos os objetos na leitura corrida dos sete storyboards.
 
@@ -82,3 +82,14 @@ Novos documentos técnicos disponíveis:
 - Brief visual do adversário e do instrumento segmentado.
 
 **Estado:** a divergência de placa/teto foi corrigida e verificada. O animatic final continua bloqueado até harmonização dos diálogos expandidos, desenhos de plantas/cortes e aprovação dos model sheets e objetos essenciais. As referências visuais de atmosfera não são modelos oficiais aprovados.
+
+
+## Atualização — integração seletiva de diálogos (13/11/2026)
+
+A primeira integração seletiva foi aplicada ao roteiro literário e verificada no GitHub. Foram incorporadas falas escolhidas dos Storyboards 03–07 nas cenas 7–11, reforçando a leitura espacial de Iren, o método de Nara, a prudência de Angel e a decisão limitada do adversário. As falas protegidas foram preservadas e não houve cópia de diálogos que já estavam no roteiro.
+
+Documento de registro: `dialogue-integration-pass-01.md`.
+
+**Nova pendência de continuidade:** o Storyboard 03 (sequência C, quadros 15–18) e o Storyboard 04 (sequência A, quadro 02) mostram Angel junto de Nara e Iren na entrada de manutenção, enquanto o roteiro e as sequências posteriores do Storyboard 04 estabelecem caminhos separados. A decisão provisória é preservar as rotas separadas: Nara e Iren seguem pela galeria; Angel usa a passagem oculta; os caminhos convergem na câmara. Corrigir os quadros conflitantes antes do animatic.
+
+**Estado:** primeira integração concluída; leitura de mesa, cronometragem e correção dos storyboards ainda pendentes. Não liberar animatic final.
