@@ -7,6 +7,8 @@
 
 > Documento de pré-produção. A sequência deve parecer uma consequência inevitável das decisões anteriores, não uma nova batalha. O clímax pertence à escolha coletiva e ao custo de sustentá-la.
 
+**Status dos diálogos:** falas que também constam no roteiro literário são a versão de referência. Falas adicionais presentes apenas neste storyboard são propostas de encenação, não texto aprovado para gravação; só entram na versão final após incorporação ao roteiro e aprovação.
+
 ## Intenção dramática
 
 O adversário percebe que perdeu o controle da contenção, mas ainda acredita que desligar o instrumento é a única saída. Sua tentativa é compreensível e perigosa ao mesmo tempo. A câmara reage não como uma máquina simples, mas como uma estrutura cujas relações foram perturbadas.
@@ -89,7 +91,7 @@ Antes da animação, preparar uma planta superior simples com os quatro personag
 - **Enquadramento:** plano médio baixo de Iren junto à entrada principal.
 - **Ação:** ele observa a poeira, escuta o retorno do som e compara a corrente de ar com a direção do corredor. Percebe que a saída continua acessível, mas a rota direta está se tornando enganosa.
 - **Diálogo:**
-  - **IREN:** “A passagem ainda está aberta. Mas não sigam o centro do corredor — o eco está devolvendo a distância errada!”
+  - **IREN:** “A rota de saída ainda está acessível. Mas não sigam o centro do corredor — o eco está devolvendo a distância errada!”
 - **Atuação:** fala alto o suficiente para orientar, sem transformar a informação em explicação didática.
 - **Objetivo:** fazer a experiência prática de Iren se tornar essencial para a segurança do grupo.
 
@@ -127,7 +129,7 @@ Antes da animação, preparar uma planta superior simples com os quatro personag
 - **Enquadramento:** plano de conjunto, com Iren orientando Nara para a lateral segura.
 - **Ação:** Iren alcança Nara usando o eco e a corrente de ar como referências. Ele a conduz para longe da trajetória da placa, sem puxá-la à força.
 - **Diálogo:**
-  - **IREN:** “Eu encontrei a saída. Agora preciso que você confie em mim por alguns passos.”
+  - **IREN:** “Consigo manter a referência. Agora preciso que você confie em mim por alguns passos.”
   - **NARA:** “Só alguns?”
   - **IREN:** “Estou tentando não prometer demais.”
 - **Atuação:** humor breve e nervoso, sem quebrar a urgência.
