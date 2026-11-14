@@ -91,3 +91,24 @@ As imagens geradas durante a exploração são estudos de direção, não model 
 **Base de vestuário a priorizar:** túnica clara simples, calça escura, faixa discreta e botas terrosas, conforme a referência enviada. A construção final pode ser refinada, mas deve continuar funcional, discreta e sem insígnias de origem.
 
 **Critério para o próximo model sheet:** folha técnica neutra, sem dados não aprovados, sem peso, sem biografia inventada e sem elementos de transformação. Mostrar frente, perfil, costas, três quartos, cabeça, expressões, mãos, botas, roupa e marca em estado normal/manifestação breve.
+
+
+## Estudo visual exploratório — 13/11/2026
+
+Foi gerada nesta conversa uma primeira prancha exploratória com vistas de corpo inteiro, estudos de expressão, mãos, botas e um quadro de manifestação ciano. Ela é um **estudo para revisão**, não um model sheet oficial aprovado e não substitui a referência física enviada pelo usuário.
+
+### Elementos que parecem alinhados à ficha
+- cabelo prateado em camadas e olhos cianos;
+- silhueta esguia e postura natural;
+- túnica clara, calça escura, faixa discreta e botas terrosas;
+- vistas frontal, lateral, traseira e três quartos;
+- variedade de expressões e estudos de mãos/botas.
+
+### Elementos que exigem conferência antes de canonizar
+- comprimento, volume e distribuição exatos das mechas;
+- construção e caimento da túnica e da faixa;
+- proporções anatômicas em todas as vistas;
+- posição, desenho e extensão da marca ciano: o quadro gerado é apenas uma hipótese visual e não fixa sua localização;
+- correspondência com a referência original enviada pelo usuário.
+
+Não adicionar automaticamente à ficha oficial detalhes que apareçam apenas na imagem gerada. A imagem não define origem, poderes, transformação, acessórios ou novos elementos de vestuário. O usuário deve aprovar ou pedir correções antes de qualquer canonização.
