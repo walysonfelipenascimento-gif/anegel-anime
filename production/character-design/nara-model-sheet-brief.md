@@ -62,3 +62,12 @@ O caderno/mapa deve permitir que Nara registre padrões e intervalos da estrutur
 ## Controle de cânone
 
 Não estão definidos altura, peso, medidas corporais, tom de pele, desenho anatômico final, material definitivo dos óculos, nem se chapéu e saia serão mantidos. Não preencher essas lacunas por inferência da imagem. A roupa pode ser redesenhada para Auren, preservando a leitura de cartógrafa viajante.
+
+
+## Reconfirmação da referência visual — 13/11/2026
+
+O usuário reenviou nesta conversa a referência visual de Nara (primeira imagem do par). Isso confirma que a referência continua disponível e deve ser considerada junto com esta ficha, sem solicitar novamente a mesma imagem.
+
+Leitura visual observável: jovem cartógrafa; cabelo castanho muito longo; óculos arredondados; olhos em tom dourado/âmbar; chapéu claro; jaqueta de exploração verde-oliva com detalhes amarelos; roupa interna clara e saia escura; bolsa lateral; acessórios de orientação; mapa aberto nas mãos e motivos de bússola ao fundo.
+
+A imagem é referência de direção, não autorização para copiar literalmente a ilustração. Não inferir altura, idade exata, anatomia, origem, poderes ou detalhes que não estejam visíveis/estabelecidos. Óculos, chapéu, paleta, comprimento do cabelo e peças exatas continuam sujeitos à aprovação do usuário.
