@@ -53,3 +53,8 @@ Este storyboard contém 17 quadros. Gere páginas sequenciais com no máximo 4�
 
 ## ENTREGA
 Imagens de storyboard prontas para recorte individual e montagem de animatic. O resultado é pré-produção visual, não animação final. Não declare que o episódio está finalizado.
+
+## Fonte integral para esta solicitação
+O prompt deve ser usado junto com o storyboard técnico completo, que contém a descrição de cada quadro, ações, enquadramentos, diálogos, câmera, som e regras de continuidade. Abra/anexe este arquivo no Gemini para que a geração siga a fonte exata: https://github.com/walysonfelipenascimento-gif/anegel-anime/blob/main/production/episode-01/storyboard-02-auren-and-characters.md
+
+Não dependa apenas dos títulos resumidos acima. Leia a fonte integral antes de gerar os painéis.
