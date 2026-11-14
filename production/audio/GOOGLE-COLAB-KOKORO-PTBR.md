@@ -1,6 +1,6 @@
 # Teste de vozes ANGEL — Google Colab gratuito
 
-**Status:** notebook corrigido para contornar a incompatibilidade do Python padrão do Colab; a nova instalação ainda precisa ser testada. Nenhum áudio foi gerado e nenhuma voz foi aprovada.
+**Status:** execução real concluída no runtime gratuito do Colab. Python 3.12 isolado, Kokoro instalado, pipeline PT-BR inicializado, três WAVs gerados e ZIP não vazio verificado. A avaliação artística das vozes ainda está pendente; nenhuma voz foi aprovada.
 
 ## Abrir o notebook
 
@@ -23,7 +23,9 @@ Notebook: https://colab.research.google.com/github/walysonfelipenascimento-gif/a
 
 ## Limitações e cuidados
 
-- A nova versão foi conferida estruturalmente no GitHub, mas ainda não foi executada em uma sessão Colab; portanto a instalação no runtime, download dos pesos, geração dos WAVs e qualidade permanecem **não verificadas**.
+- A execução real confirmou instalação, importação, inicialização PT-BR e geração dos três WAVs no runtime gratuito.
+- O ZIP `ANGEL_testes_de_voz_Kokoro.zip` foi criado e verificado como não vazio, contendo os três WAVs.
+- A qualidade artística, a naturalidade e a adequação das vozes aos personagens continuam **não avaliadas**; geração técnica não significa aprovação.
 - O Colab gratuito tem limites de uso e pode desconectar sessões.
 - Não usa chave de API nem serviço de créditos pagos, mas o acesso gratuito ao Colab não é garantido sem limites.
 - Não selecionar plano pago, trial, upgrade ou inserir cartão.
