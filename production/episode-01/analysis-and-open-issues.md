@@ -144,3 +144,36 @@ O usuário reconsiderou o ElevenLabs devido ao uso de créditos e pediu uma alte
 Documento de preparação: `audio/clipchamp-free-voice-setup-and-test-pass-01.md`. O documento contém perfis vocais, frases do roteiro, critérios de avaliação e registro de testes.
 
 **Estado real:** ferramenta selecionada para teste, não aprovada como solução final. Nenhuma conta foi acessada, nenhuma voz foi gerada ou aprovada. Confirmar na interface os limites e condições gratuitos antes de cada etapa; interromper se houver solicitação de pagamento, assinatura ou créditos. Não prometer uso gratuito ilimitado.
+
+
+## Replanejamento de conclusão — prioridade máxima (13/11/2026)
+
+O usuário pediu acelerar a conclusão do Episódio 01 e confirmou que o trabalho de voz avançou com uma ferramenta própria conectada e operada pelo navegador. **Não reiniciar a busca/conexão de ferramentas vocais nem tratar o Kokoro como única ferramenta definitiva sem necessidade.** A ferramenta vocal conectada deve ser considerada parte do fluxo atual de produção; os resultados finais de cada personagem/linha devem ser conferidos no material produzido antes da aprovação.
+
+### O que já está concluído em texto
+- Roteiro literário completo em 14 cenas, com encerramento e indicação explícita de fim do episódio.
+- Sete storyboards técnicos em texto.
+- Lista de planos e cue sheet de áudio sincronizados.
+- Auditorias de continuidade e de cruzamento dos storyboards.
+- Guias de cenário, rotas, objetos e leitura vocal.
+- Referências visuais recebidas para Angel, Nara e Iren; briefs de model sheet registrados.
+
+### O que falta para concluir o episódio como obra audiovisual
+1. Fechar aprovação editorial do roteiro e registrar eventuais ajustes finais após leitura vocal.
+2. Finalizar/validar as vozes e exportar os arquivos definitivos por personagem e cena, usando a ferramenta vocal já conectada; não refazer a conexão.
+3. Produzir e aprovar model sheets de Angel, Nara e Iren, usando as referências existentes; depois o adversário.
+4. Produzir estudos visuais dos objetos essenciais e plantas/estudos de Auren, observatório, galerias e câmara.
+5. Transformar os sete storyboards textuais em painéis visuais.
+6. Montar animatic com temporização, vozes, música-guia, efeitos e silêncios.
+7. Revisar continuidade, ritmo e duração; corrigir o que o animatic revelar.
+8. Produzir animação, composição, som final, montagem e exportação do episódio.
+
+### Ordem de trabalho acelerada
+- Não abrir novas frentes de cosmologia nem desenvolver personagens secundários antes de fechar o episódio.
+- Trabalhar em entregas sequenciais verificáveis, começando por uma conferência final do roteiro/diálogos e preparação dos ativos visuais indispensáveis.
+- Aproveitar referências já enviadas; não pedir novamente imagens que já constam nas fichas.
+- Para novas imagens de referência, o usuário prefere gerar no Gemini para preservar o limite de geração desta conversa.
+- Não declarar o episódio audiovisual concluído enquanto não houver animatic final, animação, mixagem e arquivo exportado revisado.
+
+### Limite de status
+O texto do episódio termina com “FIM DO EPISÓDIO 01”, mas isso significa que o roteiro conta uma história completa de abertura; não significa que a produção audiovisual esteja concluída.
