@@ -62,3 +62,12 @@ Iren identifica a posição real da passagem ao perceber o retorno dos próprios
 ## Controle de cânone
 
 Não estão definidos altura, peso, medidas corporais, tom de pele, anatomia final, material do casaco, comprimento exato do cabelo, nem se boné e lenço serão mantidos. Não inferir essas medidas pela imagem. A bolsa, os itens transportados e o desenho final da roupa dependem de validação com o episódio.
+
+
+## Reconfirmação da referência visual — 13/11/2026
+
+O usuário reenviou nesta conversa a referência visual de Iren (segunda imagem do par). Isso confirma que a referência continua disponível e deve ser considerada junto com esta ficha, sem solicitar novamente a mesma imagem.
+
+Leitura visual observável: jovem viajante/entregador; cabelo escuro acinzentado; olhos avermelhados; boné marrom; casaco comprido azul-escuro; roupa em camadas com camisa/colete; lenço claro no pescoço; calças claras com tiras utilitárias; botas e bolsa de viagem lateral.
+
+A imagem é referência de direção, não autorização para copiar literalmente a ilustração. Não inferir altura, idade exata, anatomia, origem ou poderes. Boné, casaco, paleta, acessórios e construção exata da bolsa continuam sujeitos à aprovação do usuário.
