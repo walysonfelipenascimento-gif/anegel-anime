@@ -20,9 +20,6 @@ Notebook: https://colab.research.google.com/github/walysonfelipenascimento-gif/a
 - Kokoro com o pipeline de idioma `p`, indicado pelo README oficial para português brasileiro.
 - As três vozes documentadas para PT-BR são `pf_dora`, `pm_alex` e `pm_santa`; o notebook tenta gerar uma amostra de cada uma e registra falhas individuais.
 - A célula de exportação reúne os WAVs produzidos em um ZIP.
-- Teste protegido das vozes candidatas `pf_dora`, `pm_alex` e `pm_santa`; cada uma pode falhar dependendo da versão/arquivos disponíveis.
-- Amostra comum para comparação.
-- Exportação WAV e ZIP.
 
 ## Limitações e cuidados
 
