@@ -15,16 +15,18 @@ Notebook: https://colab.research.google.com/github/walysonfelipenascimento-gif/a
 
 ## O que foi preparado
 
-- Python 3.12 isolado dentro da sessão Colab, pois o ambiente padrão pode usar uma versão de Python incompatível com o Kokoro 0.9.4.
-- Kokoro com o pipeline de idioma `p`, indicado no README oficial para português brasileiro.
-- As células de inicialização e geração chamam explicitamente o Python 3.12 isolado; não dependem do Python padrão do notebook.
+- O erro observado nas capturas foi confirmado: o PyPI declara `kokoro 0.9.4` compatível com Python `>=3.10,<3.13`; o runtime do Colab mostrado na sessão não atende a esse limite.
+- O notebook cria um Python 3.12 isolado usando `uv`, instala o Kokoro nesse ambiente e executa a inicialização e os testes chamando explicitamente esse interpretador.
+- Kokoro com o pipeline de idioma `p`, indicado pelo README oficial para português brasileiro.
+- As três vozes documentadas para PT-BR são `pf_dora`, `pm_alex` e `pm_santa`; o notebook tenta gerar uma amostra de cada uma e registra falhas individuais.
+- A célula de exportação reúne os WAVs produzidos em um ZIP.
 - Teste protegido das vozes candidatas `pf_dora`, `pm_alex` e `pm_santa`; cada uma pode falhar dependendo da versão/arquivos disponíveis.
 - Amostra comum para comparação.
 - Exportação WAV e ZIP.
 
 ## Limitações e cuidados
 
-- O notebook ainda não foi executado com a correção em uma sessão Colab; portanto instalação, disponibilidade de vozes e qualidade permanecem **não verificadas**.
+- A nova versão foi conferida estruturalmente no GitHub, mas ainda não foi executada em uma sessão Colab; portanto a instalação no runtime, download dos pesos, geração dos WAVs e qualidade permanecem **não verificadas**.
 - O Colab gratuito tem limites de uso e pode desconectar sessões.
 - Não usa chave de API nem serviço de créditos pagos, mas o acesso gratuito ao Colab não é garantido sem limites.
 - Não selecionar plano pago, trial, upgrade ou inserir cartão.
